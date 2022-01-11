@@ -2,7 +2,7 @@
 # Appends information of videos in a playlist to a csv file
 # Specifically BTS music videos 
 
-# Note: Only for appending not writing a file
+# Note: Only for appending, not writing a file
 
 from googleapiclient.discovery import build
 import argparse
