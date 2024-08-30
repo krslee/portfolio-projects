@@ -1,0 +1,751 @@
+"tournament","match_week","match_week_number","total_matches","team","matches_won","matches_lost","games_wons","games_lost","matches_won_cumulative","matches_lost_cumulative","games_won_cumulative","games_lost_cumulative","weekly_rank"
+"LCK 2022 Spring","Tiebreakers",100,1,"Kwangdong Freecs",1,0,1,0,1,0,1,0,1
+"LCK 2022 Spring","Tiebreakers",100,1,"Liiv SANDBOX",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"Hanwha Life Esports",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"Gen.G",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"DWG KIA",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"KT Rolster",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"T1",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"DRX",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"Nongshim RedForce",0,0,0,0,0,0,0,0,2
+"LCK 2022 Spring","Tiebreakers",100,1,"Fredit BRION",0,1,0,1,0,1,0,1,10
+"LCK 2022 Spring","Week 1",1,10,"T1",2,0,4,1,2,0,4,1,1
+"LCK 2022 Summer","Week 1",1,10,"Gen.G",2,0,4,0,2,0,4,0,1
+"LCK 2022 Spring","Week 1",1,10,"Gen.G",2,0,4,1,2,0,4,1,1
+"LCK 2022 Summer","Week 1",1,10,"DWG KIA",2,0,4,0,2,0,4,0,1
+"LCK 2023 Spring","Week 1",1,10,"Dplus KIA",2,0,4,0,2,0,4,0,1
+"LCK 2024 Summer","Week 1",1,10,"Gen.G",2,0,4,0,2,0,4,0,1
+"LCK 2023 Summer","Week 1",1,10,"Kwangdong Freecs",2,0,4,0,2,0,4,0,1
+"LCK 2024 Spring","Week 1",1,10,"Hanwha Life Esports",2,0,4,0,2,0,4,0,1
+"LCK 2021 Summer","Week 1",1,10,"Afreeca Freecs",2,0,4,1,2,0,4,1,1
+"LCK 2021 Summer","Week 1",1,10,"Gen.G",2,0,4,1,2,0,4,1,1
+"LCK 2021 Spring","Week 1",1,10,"Gen.G",2,0,4,0,2,0,4,0,1
+"LCK 2022 Summer","Week 1",1,10,"DRX",2,0,4,0,2,0,4,0,1
+"LCK 2024 Spring","Week 1",1,10,"Gen.G",2,0,4,1,2,0,4,1,2
+"LCK 2023 Summer","Week 1",1,10,"Dplus KIA",2,0,4,1,2,0,4,1,2
+"LCK 2024 Spring","Week 1",1,10,"KT Rolster",2,0,4,1,2,0,4,1,2
+"LCK 2024 Summer","Week 1",1,10,"Kwangdong Freecs",2,0,4,1,2,0,4,1,2
+"LCK 2021 Spring","Week 1",1,10,"DWG KIA",2,0,4,1,2,0,4,1,2
+"LCK 2023 Spring","Week 1",1,10,"T1",2,0,4,1,2,0,4,1,2
+"LCK 2023 Spring","Week 1",1,10,"BRION",2,0,4,1,2,0,4,1,2
+"LCK 2024 Summer","Week 1",1,10,"Dplus KIA",2,0,4,2,2,0,4,2,3
+"LCK 2023 Summer","Week 1",1,10,"Gen.G",2,0,4,2,2,0,4,2,3
+"LCK 2022 Spring","Week 1",1,10,"Nongshim RedForce",1,1,3,2,1,1,3,2,3
+"LCK 2021 Spring","Week 1",1,10,"Afreeca Freecs",1,1,3,2,1,1,3,2,3
+"LCK 2022 Spring","Week 1",1,10,"DWG KIA",1,1,3,2,1,1,3,2,3
+"LCK 2021 Summer","Week 1",1,10,"Nongshim RedForce",2,0,4,2,2,0,4,2,3
+"LCK 2021 Summer","Week 1",1,10,"KT Rolster",1,1,3,2,1,1,3,2,4
+"LCK 2022 Summer","Week 1",1,10,"T1",2,0,4,1,2,0,4,1,4
+"LCK 2024 Spring","Week 1",1,10,"T1",1,1,3,2,1,1,3,2,4
+"LCK 2024 Spring","Week 1",1,10,"Dplus KIA",1,1,3,2,1,1,3,2,4
+"LCK 2024 Summer","Week 1",1,10,"Hanwha Life Esports",1,1,3,3,1,1,3,3,4
+"LCK 2024 Summer","Week 1",1,10,"DRX",1,1,3,3,1,1,3,3,4
+"LCK 2023 Summer","Week 1",1,10,"KT Rolster",1,1,3,3,1,1,3,3,4
+"LCK 2023 Spring","Week 1",1,10,"Hanwha Life Esports",1,1,3,2,1,1,3,2,4
+"LCK 2021 Summer","Week 1",1,10,"T1",1,1,3,2,1,1,3,2,4
+"LCK 2021 Spring","Week 1",1,10,"Hanwha Life Esports",1,1,3,3,1,1,3,3,4
+"LCK 2021 Spring","Week 1",1,10,"T1",1,1,3,3,1,1,3,3,4
+"LCK 2021 Spring","Week 1",1,10,"DRX",1,1,3,3,1,1,3,3,4
+"LCK 2023 Summer","Week 1",1,10,"T1",1,1,3,3,1,1,3,3,4
+"LCK 2021 Summer","Week 1",1,10,"Fredit BRION",1,1,3,2,1,1,3,2,4
+"LCK 2022 Spring","Week 1",1,10,"Hanwha Life Esports",1,1,3,3,1,1,3,3,5
+"LCK 2022 Summer","Week 1",1,10,"Liiv SANDBOX",1,1,2,2,1,1,2,2,5
+"LCK 2023 Spring","Week 1",1,10,"KT Rolster",1,1,3,3,1,1,3,3,5
+"LCK 2024 Summer","Week 1",1,10,"T1",1,1,2,2,1,1,2,2,6
+"LCK 2022 Spring","Week 1",1,10,"Fredit BRION",1,1,3,3,1,2,3,4,6
+"LCK 2022 Summer","Week 1",1,10,"Kwangdong Freecs",1,1,2,3,1,1,2,3,6
+"LCK 2024 Spring","Week 1",1,10,"Nongshim RedForce",1,1,2,2,1,1,2,2,6
+"LCK 2024 Spring","Week 1",1,10,"FearX",1,1,2,2,1,1,2,2,6
+"LCK 2023 Summer","Week 1",1,10,"Liiv SANDBOX",1,1,2,2,1,1,2,2,6
+"LCK 2023 Spring","Week 1",1,10,"Gen.G",1,1,2,2,1,1,2,2,6
+"LCK 2022 Summer","Week 1",1,10,"Hanwha Life Esports",0,2,1,4,0,2,1,4,7
+"LCK 2022 Summer","Week 1",1,10,"KT Rolster",0,2,1,4,0,2,1,4,7
+"LCK 2021 Spring","Week 1",1,10,"KT Rolster",1,1,2,2,1,1,2,2,7
+"LCK 2023 Spring","Week 1",1,10,"Liiv SANDBOX",1,1,2,3,1,1,2,3,7
+"LCK 2022 Spring","Week 1",1,10,"KT Rolster",1,1,2,2,1,1,2,2,7
+"LCK 2021 Summer","Week 1",1,10,"DWG KIA",1,1,2,3,1,1,2,3,7
+"LCK 2023 Summer","Week 1",1,10,"Nongshim RedForce",1,1,2,3,1,1,2,3,7
+"LCK 2024 Summer","Week 1",1,10,"BNK FearX",1,1,2,3,1,1,2,3,7
+"LCK 2022 Spring","Week 1",1,10,"Liiv SANDBOX",1,1,2,2,1,1,2,2,7
+"LCK 2024 Spring","Week 1",1,10,"OKSavingsBank BRION",0,2,0,4,0,2,0,4,8
+"LCK 2021 Spring","Week 1",1,10,"Nongshim RedForce",1,1,2,3,1,1,2,3,8
+"LCK 2024 Spring","Week 1",1,10,"Kwangdong Freecs",0,2,0,4,0,2,0,4,8
+"LCK 2024 Spring","Week 1",1,10,"DRX",0,2,0,4,0,2,0,4,8
+"LCK 2023 Spring","Week 1",1,10,"Nongshim RedForce",0,2,1,4,0,2,1,4,8
+"LCK 2024 Summer","Week 1",1,10,"OKSavingsBank BRION",0,2,2,4,0,2,2,4,8
+"LCK 2023 Summer","Week 1",1,10,"Hanwha Life Esports",0,2,2,4,0,2,2,4,8
+"LCK 2021 Summer","Week 1",1,10,"Liiv SANDBOX",0,2,1,4,0,2,1,4,8
+"LCK 2021 Summer","Week 1",1,10,"DRX",0,2,1,4,0,2,1,4,8
+"LCK 2023 Spring","Week 1",1,10,"Kwangdong Freecs",0,2,1,4,0,2,1,4,8
+"LCK 2023 Summer","Week 1",1,10,"DRX",0,2,1,4,0,2,1,4,9
+"LCK 2024 Summer","Week 1",1,10,"KT Rolster",0,2,1,4,0,2,1,4,9
+"LCK 2024 Summer","Week 1",1,10,"Nongshim RedForce",0,2,1,4,0,2,1,4,9
+"LCK 2022 Spring","Week 1",1,10,"Kwangdong Freecs",0,2,0,4,1,2,1,4,9
+"LCK 2023 Summer","Week 1",1,10,"OKSavingsBank BRION",0,2,1,4,0,2,1,4,9
+"LCK 2021 Spring","Week 1",1,10,"Liiv SANDBOX",0,2,1,4,0,2,1,4,9
+"LCK 2022 Summer","Week 1",1,10,"Fredit BRION",0,2,0,4,0,2,0,4,9
+"LCK 2022 Summer","Week 1",1,10,"Nongshim RedForce",0,2,0,4,0,2,0,4,9
+"LCK 2021 Summer","Week 1",1,10,"Hanwha Life Esports",0,2,0,4,0,2,0,4,10
+"LCK 2021 Spring","Week 1",1,10,"Fredit BRION",0,2,0,4,0,2,0,4,10
+"LCK 2022 Spring","Week 1",1,10,"DRX",0,2,0,4,0,2,0,4,10
+"LCK 2023 Spring","Week 1",1,10,"DRX",0,2,0,4,0,2,0,4,10
+"LCK 2021 Summer","Week 10",10,8,"Gen.G",2,0,4,1,4,0,8,2,1
+"LCK 2021 Summer","Week 10",10,8,"Afreeca Freecs",2,0,4,1,4,0,8,2,1
+"LCK 2021 Spring","Week 10",10,8,"Gen.G",1,0,2,0,3,0,6,0,1
+"LCK 2021 Spring","Week 10",10,8,"DWG KIA",1,0,2,1,3,0,6,2,2
+"LCK 2021 Spring","Week 10",10,8,"Afreeca Freecs",1,0,2,0,2,1,5,2,3
+"LCK 2021 Summer","Week 10",10,8,"Nongshim RedForce",1,1,2,2,3,1,6,4,3
+"LCK 2021 Summer","Week 10",10,8,"KT Rolster",1,1,3,3,2,2,6,5,4
+"LCK 2021 Spring","Week 10",10,8,"T1",1,0,2,0,2,1,5,3,4
+"LCK 2021 Summer","Week 10",10,8,"DWG KIA",1,0,2,0,2,1,4,3,5
+"LCK 2021 Spring","Week 10",10,8,"Hanwha Life Esports",1,1,2,2,2,2,5,5,5
+"LCK 2021 Spring","Week 10",10,8,"KT Rolster",1,1,3,3,2,2,5,5,5
+"LCK 2021 Spring","Week 10",10,8,"Nongshim RedForce",1,1,3,2,2,2,5,5,5
+"LCK 2021 Summer","Week 10",10,8,"Fredit BRION",0,1,1,2,1,2,4,4,6
+"LCK 2021 Summer","Week 10",10,8,"T1",0,1,0,2,1,2,3,4,7
+"LCK 2021 Spring","Week 10",10,8,"DRX",0,2,1,4,1,3,4,7,8
+"LCK 2021 Summer","Week 10",10,8,"Hanwha Life Esports",1,1,2,2,1,3,2,6,8
+"LCK 2021 Summer","Week 10",10,8,"Liiv SANDBOX",0,2,1,4,0,4,2,8,9
+"LCK 2021 Spring","Week 10",10,8,"Liiv SANDBOX",1,1,2,3,1,3,3,7,9
+"LCK 2021 Summer","Week 10",10,8,"DRX",0,1,0,2,0,3,1,6,10
+"LCK 2021 Spring","Week 10",10,8,"Fredit BRION",0,2,0,4,0,4,0,8,10
+"LCK 2023 Spring","Week 2",2,10,"T1",2,0,4,1,4,0,8,2,1
+"LCK 2021 Summer","Week 2",2,10,"Gen.G",2,0,4,2,6,0,12,4,1
+"LCK 2023 Summer","Week 2",2,10,"Gen.G",2,0,4,0,4,0,8,2,1
+"LCK 2022 Summer","Week 2",2,10,"Gen.G",2,0,4,1,4,0,8,1,1
+"LCK 2022 Summer","Week 2",2,10,"T1",2,0,4,0,4,0,8,1,1
+"LCK 2022 Summer","Week 2",2,10,"DRX",2,0,4,1,4,0,8,1,1
+"LCK 2024 Summer","Week 2",2,10,"Gen.G",2,0,4,0,4,0,8,0,1
+"LCK 2024 Spring","Week 2",2,10,"Gen.G",2,0,4,1,4,0,8,2,1
+"LCK 2022 Spring","Week 2",2,10,"T1",2,0,4,0,4,0,8,1,1
+"LCK 2021 Spring","Week 2",2,10,"Gen.G",1,1,3,3,4,1,9,3,1
+"LCK 2024 Spring","Week 2",2,10,"T1",2,0,4,1,3,1,7,3,2
+"LCK 2023 Summer","Week 2",2,10,"T1",2,0,4,0,3,1,7,3,2
+"LCK 2023 Summer","Week 2",2,10,"Dplus KIA",1,1,3,2,3,1,7,3,2
+"LCK 2023 Spring","Week 2",2,10,"Dplus KIA",1,1,3,2,3,1,7,2,2
+"LCK 2024 Summer","Week 2",2,10,"Hanwha Life Esports",2,0,4,0,3,1,7,3,2
+"LCK 2021 Summer","Week 2",2,10,"Afreeca Freecs",1,1,2,3,5,1,10,5,2
+"LCK 2024 Summer","Week 2",2,10,"Kwangdong Freecs",1,1,3,2,3,1,7,3,2
+"LCK 2022 Spring","Week 2",2,10,"Gen.G",2,0,4,1,4,0,8,2,2
+"LCK 2023 Summer","Week 2",2,10,"KT Rolster",2,0,4,0,3,1,7,3,2
+"LCK 2021 Spring","Week 2",2,10,"Hanwha Life Esports",2,0,4,2,4,2,9,7,2
+"LCK 2021 Spring","Week 2",2,10,"DWG KIA",1,1,2,2,4,1,8,4,3
+"LCK 2024 Spring","Week 2",2,10,"Hanwha Life Esports",1,1,2,2,3,1,6,2,3
+"LCK 2021 Summer","Week 2",2,10,"Nongshim RedForce",1,1,3,3,4,2,9,7,3
+"LCK 2023 Spring","Week 2",2,10,"Gen.G",2,0,4,1,3,1,6,3,3
+"LCK 2022 Spring","Week 2",2,10,"Nongshim RedForce",2,0,4,2,3,1,7,4,3
+"LCK 2021 Summer","Week 2",2,10,"DWG KIA",2,0,4,0,4,1,8,3,4
+"LCK 2021 Spring","Week 2",2,10,"Nongshim RedForce",1,1,3,2,3,3,8,7,4
+"LCK 2024 Summer","Week 2",2,10,"T1",2,0,4,1,3,1,6,3,4
+"LCK 2024 Spring","Week 2",2,10,"Dplus KIA",1,1,3,2,2,2,6,4,4
+"LCK 2022 Spring","Week 2",2,10,"DWG KIA",1,1,3,2,2,2,6,4,4
+"LCK 2022 Summer","Week 2",2,10,"DWG KIA",0,2,1,4,2,2,5,4,4
+"LCK 2023 Spring","Week 2",2,10,"Liiv SANDBOX",2,0,4,2,3,1,6,5,4
+"LCK 2023 Spring","Week 2",2,10,"KT Rolster",1,1,3,2,2,2,6,5,4
+"LCK 2023 Summer","Week 2",2,10,"Hanwha Life Esports",2,0,4,0,2,2,6,4,5
+"LCK 2021 Spring","Week 2",2,10,"KT Rolster",1,1,3,3,3,3,8,8,5
+"LCK 2022 Summer","Week 2",2,10,"Liiv SANDBOX",1,1,2,2,2,2,4,4,5
+"LCK 2022 Spring","Week 2",2,10,"KT Rolster",1,1,3,2,2,2,5,4,5
+"LCK 2021 Summer","Week 2",2,10,"KT Rolster",0,2,2,4,2,4,8,9,5
+"LCK 2024 Summer","Week 2",2,10,"Dplus KIA",1,1,2,2,3,1,6,4,5
+"LCK 2024 Spring","Week 2",2,10,"KT Rolster",0,2,2,4,2,2,6,5,5
+"LCK 2021 Spring","Week 2",2,10,"DRX",2,0,4,2,3,3,8,9,6
+"LCK 2021 Summer","Week 2",2,10,"Liiv SANDBOX",2,0,4,0,2,4,6,8,6
+"LCK 2023 Spring","Week 2",2,10,"BRION",0,2,1,4,2,2,5,5,6
+"LCK 2022 Summer","Week 2",2,10,"Nongshim RedForce",2,0,4,1,2,2,4,5,6
+"LCK 2023 Summer","Week 2",2,10,"Kwangdong Freecs",0,2,0,4,2,2,4,4,6
+"LCK 2022 Spring","Week 2",2,10,"Hanwha Life Esports",0,2,1,4,1,3,4,7,6
+"LCK 2024 Spring","Week 2",2,10,"Kwangdong Freecs",2,0,4,1,2,2,4,5,6
+"LCK 2024 Spring","Week 2",2,10,"FearX",1,1,2,3,2,2,4,5,6
+"LCK 2024 Summer","Week 2",2,10,"DRX",1,1,3,2,2,2,6,5,6
+"LCK 2024 Summer","Week 2",2,10,"Nongshim RedForce",1,1,2,3,1,3,3,7,7
+"LCK 2023 Spring","Week 2",2,10,"Hanwha Life Esports",0,2,1,4,1,3,4,6,7
+"LCK 2022 Summer","Week 2",2,10,"KT Rolster",1,1,2,2,1,3,3,6,7
+"LCK 2021 Spring","Week 2",2,10,"T1",0,2,2,4,2,3,7,7,7
+"LCK 2023 Summer","Week 2",2,10,"OKSavingsBank BRION",1,1,2,3,1,3,3,7,7
+"LCK 2021 Summer","Week 2",2,10,"T1",1,1,2,2,2,3,5,6,7
+"LCK 2022 Spring","Week 2",2,10,"Kwangdong Freecs",1,1,2,2,2,3,3,6,7
+"LCK 2021 Spring","Week 2",2,10,"Liiv SANDBOX",1,1,3,2,2,4,6,9,8
+"LCK 2023 Summer","Week 2",2,10,"Liiv SANDBOX",0,2,0,4,1,3,2,6,8
+"LCK 2021 Summer","Week 2",2,10,"Fredit BRION",0,2,1,4,1,4,5,8,8
+"LCK 2023 Spring","Week 2",2,10,"DRX",1,1,3,2,1,3,3,6,8
+"LCK 2022 Spring","Week 2",2,10,"Fredit BRION",0,2,0,4,1,4,3,8,8
+"LCK 2024 Summer","Week 2",2,10,"BNK FearX",0,2,0,4,1,3,2,7,8
+"LCK 2022 Summer","Week 2",2,10,"Hanwha Life Esports",0,2,2,4,0,4,3,8,8
+"LCK 2024 Spring","Week 2",2,10,"DRX",1,1,3,3,1,3,3,7,8
+"LCK 2022 Summer","Week 2",2,10,"Kwangdong Freecs",0,2,0,4,1,3,2,7,9
+"LCK 2023 Summer","Week 2",2,10,"Nongshim RedForce",0,2,0,4,1,3,2,7,9
+"LCK 2024 Summer","Week 2",2,10,"OKSavingsBank BRION",0,2,0,4,0,4,2,8,9
+"LCK 2024 Spring","Week 2",2,10,"Nongshim RedForce",0,2,0,4,1,3,2,6,9
+"LCK 2021 Spring","Week 2",2,10,"Afreeca Freecs",0,2,0,4,2,3,5,6,9
+"LCK 2022 Spring","Week 2",2,10,"DRX",1,1,2,2,1,3,2,6,9
+"LCK 2023 Spring","Week 2",2,10,"Nongshim RedForce",1,1,2,3,1,3,3,7,9
+"LCK 2021 Summer","Week 2",2,10,"Hanwha Life Esports",1,1,2,3,2,4,4,9,9
+"LCK 2022 Spring","Week 2",2,10,"Liiv SANDBOX",0,2,0,4,1,3,2,6,9
+"LCK 2022 Summer","Week 2",2,10,"Fredit BRION",0,2,0,4,0,4,0,8,10
+"LCK 2021 Spring","Week 2",2,10,"Fredit BRION",1,1,2,2,1,5,2,10,10
+"LCK 2021 Summer","Week 2",2,10,"DRX",0,2,1,4,0,5,2,10,10
+"LCK 2023 Spring","Week 2",2,10,"Kwangdong Freecs",0,2,0,4,0,4,1,8,10
+"LCK 2024 Summer","Week 2",2,10,"KT Rolster",0,2,0,4,0,4,1,8,10
+"LCK 2023 Summer","Week 2",2,10,"DRX",0,2,0,4,0,4,1,8,10
+"LCK 2024 Spring","Week 2",2,10,"OKSavingsBank BRION",0,2,1,4,0,4,1,8,10
+"LCK 2024 Spring","Week 3",3,10,"Gen.G",2,0,4,0,6,0,12,2,1
+"LCK 2022 Spring","Week 3",3,10,"T1",2,0,4,2,6,0,12,3,1
+"LCK 2021 Summer","Week 3",3,10,"Gen.G",2,0,4,1,8,0,16,5,1
+"LCK 2023 Spring","Week 3",3,10,"T1",1,1,3,3,5,1,11,5,1
+"LCK 2023 Summer","Week 3",3,10,"Gen.G",2,0,4,1,6,0,12,3,1
+"LCK 2024 Summer","Week 3",3,10,"Gen.G",2,0,4,0,6,0,12,0,1
+"LCK 2022 Summer","Week 3",3,10,"Gen.G",2,0,4,0,6,0,12,1,1
+"LCK 2021 Spring","Week 3",3,10,"DWG KIA",2,0,4,1,6,1,12,5,1
+"LCK 2021 Spring","Week 3",3,10,"Gen.G",1,1,3,2,5,2,12,5,1
+"LCK 2024 Spring","Week 3",3,10,"T1",2,0,4,0,5,1,11,3,2
+"LCK 2022 Spring","Week 3",3,10,"Gen.G",1,1,2,2,5,1,10,4,2
+"LCK 2024 Summer","Week 3",3,10,"Dplus KIA",2,0,4,1,5,1,10,5,2
+"LCK 2023 Summer","Week 3",3,10,"KT Rolster",2,0,4,0,5,1,11,3,2
+"LCK 2021 Summer","Week 3",3,10,"Afreeca Freecs",1,1,2,2,6,2,12,7,2
+"LCK 2022 Summer","Week 3",3,10,"T1",1,1,3,2,5,1,11,3,2
+"LCK 2024 Summer","Week 3",3,10,"Kwangdong Freecs",1,1,3,2,4,2,10,5,2
+"LCK 2023 Spring","Week 3",3,10,"Gen.G",2,0,4,1,5,1,10,4,2
+"LCK 2022 Summer","Week 3",3,10,"DWG KIA",2,0,4,0,4,2,9,4,3
+"LCK 2021 Summer","Week 3",3,10,"DWG KIA",1,1,3,3,5,2,11,6,3
+"LCK 2024 Spring","Week 3",3,10,"Hanwha Life Esports",2,0,4,1,5,1,10,3,3
+"LCK 2021 Spring","Week 3",3,10,"Hanwha Life Esports",1,1,2,2,5,3,11,9,3
+"LCK 2023 Spring","Week 3",3,10,"Dplus KIA",1,1,2,3,4,2,9,5,3
+"LCK 2022 Spring","Week 3",3,10,"DWG KIA",1,1,3,2,3,3,9,6,3
+"LCK 2023 Summer","Week 3",3,10,"Hanwha Life Esports",2,0,4,1,4,2,10,5,3
+"LCK 2024 Spring","Week 3",3,10,"KT Rolster",2,0,4,1,4,2,10,6,4
+"LCK 2024 Summer","Week 3",3,10,"Hanwha Life Esports",1,1,2,2,4,2,9,5,4
+"LCK 2024 Summer","Week 3",3,10,"T1",1,1,3,2,4,2,9,5,4
+"LCK 2023 Summer","Week 3",3,10,"T1",1,1,2,2,4,2,9,5,4
+"LCK 2022 Summer","Week 3",3,10,"DRX",0,2,1,4,4,2,9,5,4
+"LCK 2022 Spring","Week 3",3,10,"KT Rolster",1,1,3,2,3,3,8,6,4
+"LCK 2021 Summer","Week 3",3,10,"Nongshim RedForce",1,1,2,2,5,3,11,9,4
+"LCK 2023 Spring","Week 3",3,10,"Liiv SANDBOX",1,1,3,2,4,2,9,7,4
+"LCK 2021 Spring","Week 3",3,10,"Nongshim RedForce",1,1,2,2,4,4,10,9,4
+"LCK 2023 Spring","Week 3",3,10,"KT Rolster",1,1,2,2,3,3,8,7,5
+"LCK 2023 Summer","Week 3",3,10,"Dplus KIA",0,2,1,4,3,3,8,7,5
+"LCK 2022 Spring","Week 3",3,10,"Nongshim RedForce",0,2,1,4,3,3,8,8,5
+"LCK 2024 Spring","Week 3",3,10,"Kwangdong Freecs",1,1,2,2,3,3,6,7,5
+"LCK 2021 Summer","Week 3",3,10,"KT Rolster",1,1,3,2,3,5,11,11,5
+"LCK 2021 Spring","Week 3",3,10,"KT Rolster",1,1,2,2,4,4,10,10,5
+"LCK 2022 Summer","Week 3",3,10,"Liiv SANDBOX",2,0,4,1,4,2,8,5,5
+"LCK 2024 Spring","Week 3",3,10,"Dplus KIA",0,2,0,4,2,4,6,8,6
+"LCK 2021 Spring","Week 3",3,10,"DRX",1,1,2,3,4,4,10,12,6
+"LCK 2024 Summer","Week 3",3,10,"DRX",0,2,0,4,2,4,6,9,6
+"LCK 2021 Summer","Week 3",3,10,"Fredit BRION",2,0,4,1,3,4,9,9,6
+"LCK 2023 Spring","Week 3",3,10,"Hanwha Life Esports",2,0,4,2,3,3,8,8,6
+"LCK 2022 Summer","Week 3",3,10,"KT Rolster",1,1,2,2,2,4,5,8,6
+"LCK 2023 Summer","Week 3",3,10,"Kwangdong Freecs",1,1,2,2,3,3,6,6,6
+"LCK 2024 Spring","Week 3",3,10,"FearX",1,1,2,3,3,3,6,8,6
+"LCK 2022 Spring","Week 3",3,10,"DRX",2,0,4,0,3,3,6,6,6
+"LCK 2023 Spring","Week 3",3,10,"BRION",1,1,2,3,3,3,7,8,7
+"LCK 2021 Spring","Week 3",3,10,"Afreeca Freecs",2,0,4,0,4,3,9,6,7
+"LCK 2022 Spring","Week 3",3,10,"Hanwha Life Esports",1,1,2,2,2,4,6,9,7
+"LCK 2023 Summer","Week 3",3,10,"Liiv SANDBOX",1,1,3,3,2,4,5,9,7
+"LCK 2021 Summer","Week 3",3,10,"Liiv SANDBOX",1,1,3,3,3,5,9,11,7
+"LCK 2022 Summer","Week 3",3,10,"Hanwha Life Esports",1,1,2,3,1,5,5,11,7
+"LCK 2024 Summer","Week 3",3,10,"KT Rolster",2,0,4,2,2,4,5,10,7
+"LCK 2021 Summer","Week 3",3,10,"T1",1,1,2,2,3,4,7,8,8
+"LCK 2024 Spring","Week 3",3,10,"Nongshim RedForce",0,2,2,4,1,5,4,10,8
+"LCK 2022 Summer","Week 3",3,10,"Nongshim RedForce",0,2,0,4,2,4,4,9,8
+"LCK 2022 Spring","Week 3",3,10,"Fredit BRION",1,1,2,2,2,5,5,10,8
+"LCK 2023 Summer","Week 3",3,10,"OKSavingsBank BRION",0,2,1,4,1,5,4,11,8
+"LCK 2021 Spring","Week 3",3,10,"T1",1,1,2,2,3,4,9,9,8
+"LCK 2024 Summer","Week 3",3,10,"BNK FearX",1,1,2,2,2,4,4,9,8
+"LCK 2023 Spring","Week 3",3,10,"DRX",0,2,2,4,1,5,5,10,8
+"LCK 2024 Summer","Week 3",3,10,"Nongshim RedForce",0,2,0,4,1,5,3,11,9
+"LCK 2024 Spring","Week 3",3,10,"DRX",0,2,1,4,1,5,4,11,9
+"LCK 2021 Summer","Week 3",3,10,"Hanwha Life Esports",0,2,1,4,2,6,5,13,9
+"LCK 2022 Summer","Week 3",3,10,"Kwangdong Freecs",1,1,2,3,2,4,4,10,9
+"LCK 2023 Spring","Week 3",3,10,"Kwangdong Freecs",1,1,3,2,1,5,4,10,9
+"LCK 2023 Summer","Week 3",3,10,"DRX",1,1,2,3,1,5,3,11,9
+"LCK 2023 Summer","Week 3",3,10,"Nongshim RedForce",0,2,1,4,1,5,3,11,9
+"LCK 2022 Spring","Week 3",3,10,"Liiv SANDBOX",1,1,2,3,2,4,4,9,9
+"LCK 2021 Spring","Week 3",3,10,"Liiv SANDBOX",0,2,0,4,2,6,6,13,9
+"LCK 2024 Spring","Week 3",3,10,"OKSavingsBank BRION",0,2,0,4,0,6,1,12,10
+"LCK 2023 Spring","Week 3",3,10,"Nongshim RedForce",0,2,1,4,1,5,4,11,10
+"LCK 2022 Summer","Week 3",3,10,"Fredit BRION",0,2,1,4,0,6,1,12,10
+"LCK 2022 Spring","Week 3",3,10,"Kwangdong Freecs",0,2,0,4,2,5,3,10,10
+"LCK 2021 Spring","Week 3",3,10,"Fredit BRION",0,2,1,4,1,7,3,14,10
+"LCK 2021 Summer","Week 3",3,10,"DRX",0,2,0,4,0,7,2,14,10
+"LCK 2024 Summer","Week 3",3,10,"OKSavingsBank BRION",0,2,1,4,0,6,3,12,10
+"LCK 2023 Spring","Week 4",4,10,"T1",2,0,4,0,7,1,15,5,1
+"LCK 2021 Summer","Week 4",4,10,"Gen.G",1,1,2,3,9,1,18,8,1
+"LCK 2021 Spring","Week 4",4,10,"DWG KIA",2,0,4,0,8,1,16,5,1
+"LCK 2023 Summer","Week 4",4,10,"Gen.G",2,0,4,0,8,0,16,3,1
+"LCK 2024 Spring","Week 4",4,10,"T1",2,0,4,0,7,1,15,3,1
+"LCK 2024 Summer","Week 4",4,10,"Gen.G",2,0,4,0,8,0,16,0,1
+"LCK 2022 Spring","Week 4",4,10,"T1",2,0,4,1,8,0,16,4,1
+"LCK 2022 Summer","Week 4",4,10,"Gen.G",1,1,3,2,7,1,15,3,1
+"LCK 2021 Summer","Week 4",4,10,"Afreeca Freecs",1,1,3,3,7,3,15,10,2
+"LCK 2022 Summer","Week 4",4,10,"T1",2,0,4,1,7,1,15,4,2
+"LCK 2023 Summer","Week 4",4,10,"KT Rolster",2,0,4,0,7,1,15,3,2
+"LCK 2024 Summer","Week 4",4,10,"Hanwha Life Esports",2,0,4,1,6,2,13,6,2
+"LCK 2022 Spring","Week 4",4,10,"DWG KIA",2,0,4,0,5,3,13,6,2
+"LCK 2024 Spring","Week 4",4,10,"Gen.G",1,1,2,2,7,1,14,4,2
+"LCK 2023 Spring","Week 4",4,10,"Gen.G",1,1,3,2,6,2,13,6,2
+"LCK 2021 Spring","Week 4",4,10,"Gen.G",1,1,3,2,6,3,15,7,2
+"LCK 2022 Spring","Week 4",4,10,"Gen.G",1,1,2,3,6,2,12,7,3
+"LCK 2022 Summer","Week 4",4,10,"Liiv SANDBOX",2,0,4,1,6,2,12,6,3
+"LCK 2022 Summer","Week 4",4,10,"DWG KIA",1,1,3,2,5,3,12,6,3
+"LCK 2024 Spring","Week 4",4,10,"KT Rolster",2,0,4,0,6,2,14,6,3
+"LCK 2021 Summer","Week 4",4,10,"DWG KIA",1,1,3,2,6,3,14,8,3
+"LCK 2021 Spring","Week 4",4,10,"T1",2,0,4,1,5,4,13,10,3
+"LCK 2024 Summer","Week 4",4,10,"Kwangdong Freecs",1,1,2,2,5,3,12,7,3
+"LCK 2023 Summer","Week 4",4,10,"T1",2,0,4,1,6,2,13,6,3
+"LCK 2023 Spring","Week 4",4,10,"Liiv SANDBOX",2,0,4,2,6,2,13,9,3
+"LCK 2024 Summer","Week 4",4,10,"Dplus KIA",1,1,2,2,6,2,12,7,3
+"LCK 2021 Spring","Week 4",4,10,"Hanwha Life Esports",1,1,2,3,6,4,13,12,4
+"LCK 2023 Spring","Week 4",4,10,"Dplus KIA",1,1,3,2,5,3,12,7,4
+"LCK 2021 Summer","Week 4",4,10,"Nongshim RedForce",1,1,3,3,6,4,14,12,4
+"LCK 2023 Summer","Week 4",4,10,"Hanwha Life Esports",0,2,0,4,4,4,10,9,4
+"LCK 2023 Summer","Week 4",4,10,"Dplus KIA",1,1,2,2,4,4,10,9,4
+"LCK 2024 Spring","Week 4",4,10,"Hanwha Life Esports",1,1,2,2,6,2,12,5,4
+"LCK 2022 Spring","Week 4",4,10,"KT Rolster",1,1,3,3,4,4,11,9,4
+"LCK 2024 Spring","Week 4",4,10,"Kwangdong Freecs",2,0,4,1,5,3,10,8,5
+"LCK 2021 Spring","Week 4",4,10,"KT Rolster",1,1,3,3,5,5,13,13,5
+"LCK 2023 Spring","Week 4",4,10,"KT Rolster",2,0,4,2,5,3,12,9,5
+"LCK 2021 Summer","Week 4",4,10,"KT Rolster",1,1,3,2,4,6,14,13,5
+"LCK 2022 Summer","Week 4",4,10,"DRX",1,1,2,3,5,3,11,8,5
+"LCK 2024 Summer","Week 4",4,10,"T1",1,1,3,3,5,3,12,8,5
+"LCK 2022 Spring","Week 4",4,10,"DRX",2,0,4,2,5,3,10,8,5
+"LCK 2022 Summer","Week 4",4,10,"Kwangdong Freecs",2,0,4,1,4,4,8,11,6
+"LCK 2023 Summer","Week 4",4,10,"Kwangdong Freecs",1,1,2,2,4,4,8,8,6
+"LCK 2021 Summer","Week 4",4,10,"Liiv SANDBOX",2,0,4,2,5,5,13,13,6
+"LCK 2021 Spring","Week 4",4,10,"DRX",1,1,2,3,5,5,12,15,6
+"LCK 2024 Spring","Week 4",4,10,"Dplus KIA",1,1,2,2,3,5,8,10,6
+"LCK 2022 Spring","Week 4",4,10,"Nongshim RedForce",0,2,1,4,3,5,9,12,6
+"LCK 2022 Summer","Week 4",4,10,"KT Rolster",1,1,3,3,3,5,8,11,6
+"LCK 2024 Summer","Week 4",4,10,"KT Rolster",2,0,4,0,4,4,9,10,6
+"LCK 2023 Spring","Week 4",4,10,"Hanwha Life Esports",1,1,2,3,4,4,10,11,6
+"LCK 2022 Spring","Week 4",4,10,"Fredit BRION",1,1,3,3,3,6,8,13,7
+"LCK 2024 Summer","Week 4",4,10,"DRX",0,2,0,4,2,6,6,13,7
+"LCK 2023 Spring","Week 4",4,10,"BRION",0,2,1,4,3,5,8,12,7
+"LCK 2021 Summer","Week 4",4,10,"T1",1,1,3,3,4,5,10,11,7
+"LCK 2021 Spring","Week 4",4,10,"Afreeca Freecs",0,2,2,4,4,5,11,10,7
+"LCK 2023 Summer","Week 4",4,10,"Liiv SANDBOX",0,2,1,4,2,6,6,13,7
+"LCK 2024 Spring","Week 4",4,10,"FearX",0,2,1,4,3,5,7,12,7
+"LCK 2022 Spring","Week 4",4,10,"Hanwha Life Esports",0,2,2,4,2,6,8,13,7
+"LCK 2023 Spring","Week 4",4,10,"Kwangdong Freecs",1,1,3,2,2,6,7,12,8
+"LCK 2021 Summer","Week 4",4,10,"Fredit BRION",0,2,1,4,3,6,10,13,8
+"LCK 2023 Summer","Week 4",4,10,"OKSavingsBank BRION",1,1,2,3,2,6,6,14,8
+"LCK 2023 Summer","Week 4",4,10,"DRX",1,1,3,3,2,6,6,14,8
+"LCK 2024 Spring","Week 4",4,10,"Nongshim RedForce",1,1,2,2,2,6,6,12,8
+"LCK 2024 Summer","Week 4",4,10,"Nongshim RedForce",1,1,2,2,2,6,5,13,8
+"LCK 2022 Summer","Week 4",4,10,"Hanwha Life Esports",0,2,1,4,1,7,6,15,8
+"LCK 2021 Spring","Week 4",4,10,"Nongshim RedForce",0,2,1,4,4,6,11,13,8
+"LCK 2022 Spring","Week 4",4,10,"Kwangdong Freecs",1,1,2,2,3,6,5,12,9
+"LCK 2024 Summer","Week 4",4,10,"BNK FearX",0,2,0,4,2,6,4,13,9
+"LCK 2023 Spring","Week 4",4,10,"DRX",0,2,1,4,1,7,6,14,9
+"LCK 2022 Summer","Week 4",4,10,"Nongshim RedForce",0,2,1,4,2,6,5,13,9
+"LCK 2024 Spring","Week 4",4,10,"DRX",0,2,0,4,1,7,4,15,9
+"LCK 2021 Spring","Week 4",4,10,"Liiv SANDBOX",1,1,2,2,3,7,8,15,9
+"LCK 2021 Summer","Week 4",4,10,"Hanwha Life Esports",2,0,4,1,4,6,9,14,9
+"LCK 2021 Spring","Week 4",4,10,"Fredit BRION",1,1,2,3,2,8,5,17,10
+"LCK 2023 Summer","Week 4",4,10,"Nongshim RedForce",0,2,1,4,1,7,4,15,10
+"LCK 2023 Spring","Week 4",4,10,"Nongshim RedForce",0,2,0,4,1,7,4,15,10
+"LCK 2024 Spring","Week 4",4,10,"OKSavingsBank BRION",0,2,0,4,0,8,1,16,10
+"LCK 2021 Summer","Week 4",4,10,"DRX",0,2,1,4,0,9,3,18,10
+"LCK 2022 Spring","Week 4",4,10,"Liiv SANDBOX",0,2,1,4,2,6,5,13,10
+"LCK 2024 Summer","Week 4",4,10,"OKSavingsBank BRION",0,2,1,4,0,8,4,16,10
+"LCK 2022 Summer","Week 4",4,10,"Fredit BRION",0,2,0,4,0,8,1,16,10
+"LCK 2022 Summer","Week 5",5,10,"Gen.G",2,0,4,0,9,1,19,3,1
+"LCK 2021 Spring","Week 5",5,10,"DWG KIA",2,0,4,2,10,1,20,7,1
+"LCK 2023 Summer","Week 5",5,10,"Gen.G",2,0,4,0,10,0,20,3,1
+"LCK 2024 Spring","Week 5",5,10,"T1",2,0,4,1,9,1,19,4,1
+"LCK 2023 Spring","Week 5",5,10,"T1",2,0,4,2,9,1,19,7,1
+"LCK 2022 Spring","Week 5",5,10,"T1",2,0,4,1,10,0,20,5,1
+"LCK 2021 Summer","Week 5",5,10,"Gen.G",1,1,2,2,10,2,20,10,1
+"LCK 2024 Summer","Week 5",5,10,"Gen.G",2,0,4,1,10,0,20,1,1
+"LCK 2021 Summer","Week 5",5,10,"DWG KIA",2,0,4,0,8,3,18,8,2
+"LCK 2022 Spring","Week 5",5,10,"Gen.G",2,0,4,0,8,2,16,7,2
+"LCK 2024 Summer","Week 5",5,10,"Hanwha Life Esports",2,0,4,0,8,2,17,6,2
+"LCK 2022 Summer","Week 5",5,10,"T1",2,0,4,1,9,1,19,5,2
+"LCK 2023 Spring","Week 5",5,10,"KT Rolster",2,0,4,0,7,3,16,9,2
+"LCK 2023 Spring","Week 5",5,10,"Gen.G",1,1,3,3,7,3,16,9,2
+"LCK 2023 Summer","Week 5",5,10,"KT Rolster",2,0,4,0,9,1,19,3,2
+"LCK 2021 Spring","Week 5",5,10,"Gen.G",2,0,4,0,8,3,19,7,2
+"LCK 2024 Spring","Week 5",5,10,"Gen.G",2,0,4,0,9,1,18,4,2
+"LCK 2024 Summer","Week 5",5,10,"Dplus KIA",1,1,3,2,7,3,15,9,3
+"LCK 2021 Spring","Week 5",5,10,"T1",1,1,3,2,6,5,16,12,3
+"LCK 2022 Spring","Week 5",5,10,"DWG KIA",1,1,3,3,6,4,16,9,3
+"LCK 2022 Summer","Week 5",5,10,"DWG KIA",2,0,4,0,7,3,16,6,3
+"LCK 2021 Summer","Week 5",5,10,"Nongshim RedForce",2,0,4,0,8,4,18,12,3
+"LCK 2023 Summer","Week 5",5,10,"Hanwha Life Esports",2,0,4,0,6,4,14,9,3
+"LCK 2023 Summer","Week 5",5,10,"Dplus KIA",2,0,4,0,6,4,14,9,3
+"LCK 2024 Spring","Week 5",5,10,"Hanwha Life Esports",2,0,4,0,8,2,16,5,3
+"LCK 2024 Spring","Week 5",5,10,"KT Rolster",0,2,0,4,6,4,14,10,4
+"LCK 2022 Spring","Week 5",5,10,"DRX",1,1,2,3,6,4,12,11,4
+"LCK 2021 Spring","Week 5",5,10,"KT Rolster",1,1,3,2,6,6,16,15,4
+"LCK 2023 Spring","Week 5",5,10,"Liiv SANDBOX",1,1,3,2,7,3,16,11,4
+"LCK 2021 Spring","Week 5",5,10,"Hanwha Life Esports",1,1,3,3,7,5,16,15,4
+"LCK 2024 Summer","Week 5",5,10,"Kwangdong Freecs",0,2,1,4,5,5,13,11,4
+"LCK 2021 Summer","Week 5",5,10,"Afreeca Freecs",1,1,2,3,8,4,17,13,4
+"LCK 2022 Summer","Week 5",5,10,"Liiv SANDBOX",1,1,2,2,7,3,14,8,4
+"LCK 2023 Spring","Week 5",5,10,"Dplus KIA",1,1,2,2,6,4,14,9,5
+"LCK 2024 Summer","Week 5",5,10,"T1",0,2,1,4,5,5,13,12,5
+"LCK 2023 Summer","Week 5",5,10,"T1",0,2,0,4,6,4,13,10,5
+"LCK 2024 Spring","Week 5",5,10,"Dplus KIA",2,0,4,1,5,5,12,11,5
+"LCK 2021 Summer","Week 5",5,10,"KT Rolster",1,1,3,3,5,7,17,16,5
+"LCK 2022 Spring","Week 5",5,10,"KT Rolster",0,2,1,4,4,6,12,13,5
+"LCK 2022 Summer","Week 5",5,10,"KT Rolster",2,0,4,1,5,5,12,12,5
+"LCK 2022 Summer","Week 5",5,10,"DRX",0,2,1,4,5,5,12,12,5
+"LCK 2024 Spring","Week 5",5,10,"Kwangdong Freecs",0,2,2,4,5,5,12,12,6
+"LCK 2021 Spring","Week 5",5,10,"DRX",2,0,4,2,7,5,16,17,6
+"LCK 2024 Summer","Week 5",5,10,"KT Rolster",1,1,3,2,5,5,12,12,6
+"LCK 2023 Spring","Week 5",5,10,"Hanwha Life Esports",2,0,4,0,6,4,14,11,6
+"LCK 2023 Summer","Week 5",5,10,"Kwangdong Freecs",0,2,0,4,4,6,8,12,6
+"LCK 2022 Spring","Week 5",5,10,"Hanwha Life Esports",1,1,2,2,3,7,10,15,6
+"LCK 2021 Summer","Week 5",5,10,"Liiv SANDBOX",0,2,1,4,5,7,14,17,6
+"LCK 2024 Summer","Week 5",5,10,"BNK FearX",2,0,4,2,4,6,8,15,7
+"LCK 2022 Spring","Week 5",5,10,"Nongshim RedForce",0,2,1,4,3,7,10,16,7
+"LCK 2022 Summer","Week 5",5,10,"Kwangdong Freecs",0,2,0,4,4,6,8,15,7
+"LCK 2024 Spring","Week 5",5,10,"FearX",0,2,0,4,3,7,7,16,7
+"LCK 2024 Spring","Week 5",5,10,"Nongshim RedForce",0,2,1,4,2,8,7,16,7
+"LCK 2023 Summer","Week 5",5,10,"DRX",1,1,2,2,3,7,8,16,7
+"LCK 2021 Spring","Week 5",5,10,"Afreeca Freecs",0,2,1,4,4,7,12,14,7
+"LCK 2023 Spring","Week 5",5,10,"BRION",1,1,2,3,4,6,10,15,7
+"LCK 2021 Summer","Week 5",5,10,"T1",1,1,2,2,5,6,12,13,7
+"LCK 2022 Summer","Week 5",5,10,"Hanwha Life Esports",0,2,1,4,1,9,7,19,8
+"LCK 2021 Summer","Week 5",5,10,"Fredit BRION",0,2,2,4,3,8,12,17,8
+"LCK 2024 Summer","Week 5",5,10,"Nongshim RedForce",1,1,2,2,3,7,7,15,8
+"LCK 2022 Spring","Week 5",5,10,"Fredit BRION",0,2,2,4,3,8,10,17,8
+"LCK 2023 Spring","Week 5",5,10,"Kwangdong Freecs",0,2,2,4,2,8,9,16,8
+"LCK 2023 Summer","Week 5",5,10,"Nongshim RedForce",1,1,2,2,2,8,6,17,8
+"LCK 2021 Spring","Week 5",5,10,"Nongshim RedForce",0,2,1,4,4,8,12,17,8
+"LCK 2023 Summer","Week 5",5,10,"Liiv SANDBOX",0,2,0,4,2,8,6,17,8
+"LCK 2024 Summer","Week 5",5,10,"DRX",0,2,0,4,2,8,6,17,9
+"LCK 2022 Spring","Week 5",5,10,"Kwangdong Freecs",2,0,4,1,5,6,9,13,9
+"LCK 2022 Summer","Week 5",5,10,"Nongshim RedForce",0,2,0,4,2,8,5,17,9
+"LCK 2021 Spring","Week 5",5,10,"Liiv SANDBOX",0,2,0,4,3,9,8,19,9
+"LCK 2023 Spring","Week 5",5,10,"DRX",0,2,0,4,1,9,6,18,9
+"LCK 2024 Spring","Week 5",5,10,"OKSavingsBank BRION",2,0,4,2,2,8,5,18,9
+"LCK 2021 Summer","Week 5",5,10,"Hanwha Life Esports",1,1,2,3,5,7,11,17,9
+"LCK 2022 Summer","Week 5",5,10,"Fredit BRION",1,1,2,2,1,9,3,18,10
+"LCK 2024 Summer","Week 5",5,10,"OKSavingsBank BRION",1,1,2,3,1,9,6,19,10
+"LCK 2022 Spring","Week 5",5,10,"Liiv SANDBOX",1,1,2,3,3,7,7,16,10
+"LCK 2024 Spring","Week 5",5,10,"DRX",0,2,1,4,1,9,5,19,10
+"LCK 2023 Spring","Week 5",5,10,"Nongshim RedForce",0,2,0,4,1,9,4,19,10
+"LCK 2023 Summer","Week 5",5,10,"OKSavingsBank BRION",0,2,0,4,2,8,6,18,10
+"LCK 2021 Summer","Week 5",5,10,"DRX",1,1,2,3,1,10,5,21,10
+"LCK 2021 Spring","Week 5",5,10,"Fredit BRION",1,1,2,2,3,9,7,19,10
+"LCK 2022 Summer","Week 6",6,10,"Gen.G",2,0,4,0,11,1,23,3,1
+"LCK 2021 Spring","Week 6",6,8,"DWG KIA",2,0,4,1,12,1,24,8,1
+"LCK 2024 Summer","Week 6",6,10,"Gen.G",2,0,4,0,12,0,24,1,1
+"LCK 2022 Spring","Week 6",6,10,"T1",2,0,4,0,12,0,24,5,1
+"LCK 2023 Summer","Week 6",6,10,"Gen.G",2,0,4,0,12,0,24,3,1
+"LCK 2021 Summer","Week 6",6,8,"Gen.G",1,0,2,1,11,2,22,11,1
+"LCK 2023 Spring","Week 6",6,10,"T1",2,0,4,0,11,1,23,7,1
+"LCK 2024 Spring","Week 6",6,10,"T1",2,0,4,0,11,1,23,4,1
+"LCK 2023 Summer","Week 6",6,10,"KT Rolster",2,0,4,2,11,1,23,5,2
+"LCK 2024 Spring","Week 6",6,10,"Gen.G",2,0,4,0,11,1,22,4,2
+"LCK 2022 Summer","Week 6",6,10,"T1",2,0,4,2,11,1,23,7,2
+"LCK 2021 Spring","Week 6",6,8,"Gen.G",2,0,4,2,10,3,23,9,2
+"LCK 2024 Summer","Week 6",6,10,"Hanwha Life Esports",2,0,4,1,10,2,21,7,2
+"LCK 2022 Spring","Week 6",6,10,"Gen.G",2,0,4,0,10,2,20,7,2
+"LCK 2023 Spring","Week 6",6,10,"Gen.G",2,0,4,0,9,3,20,9,2
+"LCK 2021 Summer","Week 6",6,8,"Nongshim RedForce",2,0,4,1,10,4,22,13,2
+"LCK 2022 Spring","Week 6",6,10,"DWG KIA",1,1,2,2,7,5,18,11,3
+"LCK 2022 Summer","Week 6",6,10,"DWG KIA",1,1,3,2,8,4,19,8,3
+"LCK 2021 Summer","Week 6",6,8,"DWG KIA",0,2,2,4,8,5,20,12,3
+"LCK 2023 Summer","Week 6",6,10,"Dplus KIA",2,0,4,0,8,4,18,9,3
+"LCK 2024 Summer","Week 6",6,10,"Dplus KIA",1,1,3,2,8,4,18,11,3
+"LCK 2021 Spring","Week 6",6,8,"T1",1,1,3,2,7,6,19,14,3
+"LCK 2024 Spring","Week 6",6,10,"Hanwha Life Esports",2,0,4,1,10,2,20,6,3
+"LCK 2023 Spring","Week 6",6,10,"Dplus KIA",2,0,4,0,8,4,18,9,3
+"LCK 2024 Summer","Week 6",6,10,"T1",2,0,4,1,7,5,17,13,4
+"LCK 2022 Summer","Week 6",6,10,"Liiv SANDBOX",1,1,2,2,8,4,16,10,4
+"LCK 2024 Spring","Week 6",6,10,"Dplus KIA",2,0,4,1,7,5,16,12,4
+"LCK 2023 Spring","Week 6",6,10,"Hanwha Life Esports",2,0,4,1,8,4,18,12,4
+"LCK 2021 Summer","Week 6",6,8,"Afreeca Freecs",0,1,0,2,8,5,17,15,4
+"LCK 2021 Spring","Week 6",6,8,"Hanwha Life Esports",1,0,2,0,8,5,18,15,4
+"LCK 2023 Summer","Week 6",6,10,"Hanwha Life Esports",1,1,3,3,7,5,17,12,4
+"LCK 2022 Spring","Week 6",6,10,"DRX",1,1,2,3,7,5,14,14,4
+"LCK 2021 Spring","Week 6",6,8,"KT Rolster",0,1,0,2,6,7,16,17,5
+"LCK 2021 Summer","Week 6",6,8,"KT Rolster",0,2,0,4,5,9,17,20,5
+"LCK 2024 Spring","Week 6",6,10,"KT Rolster",0,2,1,4,6,6,15,14,5
+"LCK 2023 Spring","Week 6",6,10,"Liiv SANDBOX",1,1,2,3,8,4,18,14,5
+"LCK 2022 Spring","Week 6",6,10,"Fredit BRION",1,1,3,2,4,9,13,19,5
+"LCK 2022 Summer","Week 6",6,10,"KT Rolster",2,0,4,1,7,5,16,13,5
+"LCK 2023 Summer","Week 6",6,10,"T1",1,1,2,2,7,5,15,12,5
+"LCK 2024 Summer","Week 6",6,10,"KT Rolster",1,1,3,3,6,6,15,15,5
+"LCK 2022 Summer","Week 6",6,10,"DRX",2,0,4,2,7,5,16,14,6
+"LCK 2021 Spring","Week 6",6,8,"DRX",0,1,0,2,7,6,16,19,6
+"LCK 2024 Summer","Week 6",6,10,"Kwangdong Freecs",0,2,0,4,5,7,13,15,6
+"LCK 2023 Summer","Week 6",6,10,"Kwangdong Freecs",0,2,1,4,4,8,9,16,6
+"LCK 2022 Spring","Week 6",6,10,"KT Rolster",0,2,0,4,4,8,12,17,6
+"LCK 2024 Spring","Week 6",6,10,"Kwangdong Freecs",1,1,2,3,6,6,14,15,6
+"LCK 2021 Summer","Week 6",6,8,"T1",2,0,4,1,7,6,16,14,6
+"LCK 2023 Spring","Week 6",6,10,"KT Rolster",0,2,0,4,7,5,16,13,6
+"LCK 2021 Summer","Week 6",6,8,"Liiv SANDBOX",1,0,2,0,6,7,16,17,7
+"LCK 2023 Summer","Week 6",6,10,"DRX",0,2,1,4,3,9,9,20,7
+"LCK 2022 Summer","Week 6",6,10,"Kwangdong Freecs",0,2,1,4,4,8,9,19,7
+"LCK 2022 Spring","Week 6",6,10,"Nongshim RedForce",1,1,2,3,4,8,12,19,7
+"LCK 2024 Summer","Week 6",6,10,"BNK FearX",2,0,4,0,6,6,12,15,7
+"LCK 2021 Spring","Week 6",6,8,"Afreeca Freecs",1,1,3,2,5,8,15,16,7
+"LCK 2024 Spring","Week 6",6,10,"Nongshim RedForce",0,2,2,4,2,10,9,20,7
+"LCK 2023 Spring","Week 6",6,10,"BRION",0,2,2,4,4,8,12,19,7
+"LCK 2021 Summer","Week 6",6,8,"Fredit BRION",2,0,4,1,5,8,16,18,8
+"LCK 2023 Spring","Week 6",6,10,"Kwangdong Freecs",0,2,0,4,2,10,9,20,8
+"LCK 2023 Summer","Week 6",6,10,"OKSavingsBank BRION",1,1,3,3,3,9,9,21,8
+"LCK 2021 Spring","Week 6",6,8,"Nongshim RedForce",1,1,2,2,5,9,14,19,8
+"LCK 2024 Spring","Week 6",6,10,"FearX",0,2,1,4,3,9,8,20,8
+"LCK 2024 Summer","Week 6",6,10,"Nongshim RedForce",0,2,1,4,3,9,8,19,8
+"LCK 2022 Spring","Week 6",6,10,"Kwangdong Freecs",1,1,2,2,6,7,11,15,8
+"LCK 2022 Summer","Week 6",6,10,"Hanwha Life Esports",0,2,0,4,1,11,7,23,8
+"LCK 2024 Spring","Week 6",6,10,"DRX",1,1,2,3,2,10,7,22,9
+"LCK 2021 Spring","Week 6",6,8,"Fredit BRION",0,1,1,2,3,10,8,21,9
+"LCK 2023 Summer","Week 6",6,10,"Liiv SANDBOX",1,1,2,2,3,9,8,19,9
+"LCK 2024 Summer","Week 6",6,10,"DRX",0,2,0,4,2,10,6,21,9
+"LCK 2023 Spring","Week 6",6,10,"DRX",1,1,2,3,2,10,8,21,9
+"LCK 2022 Spring","Week 6",6,10,"Liiv SANDBOX",1,1,3,2,4,8,10,18,9
+"LCK 2022 Summer","Week 6",6,10,"Nongshim RedForce",0,2,1,4,2,10,6,21,9
+"LCK 2021 Summer","Week 6",6,8,"Hanwha Life Esports",0,1,1,2,5,8,12,19,9
+"LCK 2022 Summer","Week 6",6,10,"Fredit BRION",0,2,2,4,1,11,5,22,10
+"LCK 2024 Summer","Week 6",6,10,"OKSavingsBank BRION",0,2,0,4,1,11,6,23,10
+"LCK 2023 Spring","Week 6",6,10,"Nongshim RedForce",0,2,1,4,1,11,5,23,10
+"LCK 2021 Spring","Week 6",6,8,"Liiv SANDBOX",0,2,0,4,3,11,8,23,10
+"LCK 2023 Summer","Week 6",6,10,"Nongshim RedForce",0,2,0,4,2,10,6,21,10
+"LCK 2022 Spring","Week 6",6,10,"Hanwha Life Esports",0,2,0,4,3,9,10,19,10
+"LCK 2024 Spring","Week 6",6,10,"OKSavingsBank BRION",0,2,0,4,2,10,5,22,10
+"LCK 2021 Summer","Week 6",6,8,"DRX",0,2,1,4,1,12,6,25,10
+"LCK 2024 Summer","Week 7",7,10,"Gen.G",2,0,4,0,14,0,28,1,1
+"LCK 2024 Spring","Week 7",7,10,"Gen.G",2,0,4,0,13,1,26,4,1
+"LCK 2023 Spring","Week 7",7,10,"T1",2,0,4,0,13,1,27,7,1
+"LCK 2021 Summer","Week 7",7,8,"Nongshim RedForce",1,0,2,1,11,4,24,14,1
+"LCK 2022 Summer","Week 7",7,10,"Gen.G",2,0,4,0,13,1,27,3,1
+"LCK 2021 Spring","Week 7",7,8,"DWG KIA",1,0,2,0,13,1,26,8,1
+"LCK 2022 Spring","Week 7",7,10,"T1",2,0,4,0,14,0,28,5,1
+"LCK 2023 Summer","Week 7",7,10,"KT Rolster",2,0,4,0,13,1,27,5,1
+"LCK 2023 Summer","Week 7",7,10,"Gen.G",1,1,2,2,13,1,26,5,2
+"LCK 2023 Spring","Week 7",7,10,"Gen.G",1,1,3,2,10,4,23,11,2
+"LCK 2024 Summer","Week 7",7,10,"Hanwha Life Esports",1,1,3,2,11,3,24,9,2
+"LCK 2022 Spring","Week 7",7,10,"Gen.G",1,1,2,3,11,3,22,10,2
+"LCK 2024 Spring","Week 7",7,10,"T1",1,1,2,2,12,2,25,6,2
+"LCK 2021 Spring","Week 7",7,8,"Gen.G",1,1,2,2,11,4,25,11,2
+"LCK 2021 Summer","Week 7",7,8,"Gen.G",0,2,2,4,11,4,24,15,2
+"LCK 2022 Summer","Week 7",7,10,"T1",1,1,2,3,12,2,25,10,2
+"LCK 2022 Spring","Week 7",7,10,"DWG KIA",2,0,4,0,9,5,22,11,3
+"LCK 2023 Spring","Week 7",7,10,"Dplus KIA",2,0,4,0,10,4,22,9,3
+"LCK 2021 Spring","Week 7",7,8,"T1",1,1,2,2,8,7,21,16,3
+"LCK 2023 Summer","Week 7",7,10,"Hanwha Life Esports",2,0,4,0,9,5,21,12,3
+"LCK 2024 Summer","Week 7",7,10,"Dplus KIA",1,1,3,3,9,5,21,14,3
+"LCK 2021 Summer","Week 7",7,8,"DWG KIA",1,0,2,0,9,5,22,12,3
+"LCK 2024 Spring","Week 7",7,10,"Hanwha Life Esports",1,1,2,2,11,3,22,8,3
+"LCK 2022 Summer","Week 7",7,10,"DWG KIA",1,1,2,3,9,5,21,11,3
+"LCK 2023 Summer","Week 7",7,10,"Dplus KIA",1,1,2,3,9,5,20,12,4
+"LCK 2021 Summer","Week 7",7,8,"Afreeca Freecs",1,1,3,3,9,6,20,18,4
+"LCK 2022 Summer","Week 7",7,10,"Liiv SANDBOX",1,1,3,3,9,5,19,13,4
+"LCK 2024 Spring","Week 7",7,10,"Dplus KIA",2,0,4,1,9,5,20,13,4
+"LCK 2023 Spring","Week 7",7,10,"KT Rolster",2,0,4,1,9,5,20,14,4
+"LCK 2023 Spring","Week 7",7,10,"Hanwha Life Esports",1,1,2,2,9,5,20,14,4
+"LCK 2022 Spring","Week 7",7,10,"DRX",2,0,4,0,9,5,18,14,4
+"LCK 2024 Summer","Week 7",7,10,"T1",1,1,2,3,8,6,19,16,4
+"LCK 2021 Spring","Week 7",7,8,"Hanwha Life Esports",1,1,2,2,9,6,20,17,4
+"LCK 2023 Summer","Week 7",7,10,"T1",0,2,1,4,7,7,16,16,5
+"LCK 2024 Spring","Week 7",7,10,"KT Rolster",2,0,4,1,8,6,19,15,5
+"LCK 2021 Summer","Week 7",7,8,"Liiv SANDBOX",2,0,4,2,8,7,20,19,5
+"LCK 2022 Spring","Week 7",7,10,"Fredit BRION",2,0,4,2,6,9,17,21,5
+"LCK 2022 Summer","Week 7",7,10,"KT Rolster",1,1,3,2,8,6,19,15,5
+"LCK 2021 Spring","Week 7",7,8,"DRX",2,0,4,1,9,6,20,20,5
+"LCK 2024 Summer","Week 7",7,10,"KT Rolster",1,1,2,3,7,7,17,18,5
+"LCK 2022 Summer","Week 7",7,10,"DRX",0,2,1,4,7,7,17,18,6
+"LCK 2023 Summer","Week 7",7,10,"OKSavingsBank BRION",1,1,3,3,4,10,12,24,6
+"LCK 2021 Spring","Week 7",7,8,"KT Rolster",0,2,1,4,6,9,17,21,6
+"LCK 2023 Spring","Week 7",7,10,"Liiv SANDBOX",0,2,1,4,8,6,19,18,6
+"LCK 2022 Spring","Week 7",7,10,"Kwangdong Freecs",1,1,3,2,7,8,14,17,6
+"LCK 2024 Spring","Week 7",7,10,"Kwangdong Freecs",0,2,0,4,6,8,14,19,6
+"LCK 2024 Summer","Week 7",7,10,"Kwangdong Freecs",1,1,3,2,6,8,16,17,6
+"LCK 2021 Summer","Week 7",7,8,"T1",1,1,3,3,8,7,19,17,6
+"LCK 2021 Spring","Week 7",7,8,"Afreeca Freecs",0,1,0,2,5,9,15,18,7
+"LCK 2024 Spring","Week 7",7,10,"DRX",1,1,3,2,3,11,10,24,7
+"LCK 2024 Spring","Week 7",7,10,"Nongshim RedForce",0,2,1,4,2,12,10,24,7
+"LCK 2022 Summer","Week 7",7,10,"Kwangdong Freecs",2,0,4,2,6,8,13,21,7
+"LCK 2022 Spring","Week 7",7,10,"Nongshim RedForce",0,2,1,4,4,10,13,23,7
+"LCK 2023 Summer","Week 7",7,10,"Kwangdong Freecs",0,2,1,4,4,10,10,20,7
+"LCK 2023 Spring","Week 7",7,10,"BRION",0,2,0,4,4,10,12,23,7
+"LCK 2021 Summer","Week 7",7,8,"KT Rolster",1,0,2,0,6,9,19,20,7
+"LCK 2024 Summer","Week 7",7,10,"BNK FearX",1,1,2,2,7,7,14,17,7
+"LCK 2023 Spring","Week 7",7,10,"Kwangdong Freecs",1,1,2,3,3,11,11,23,8
+"LCK 2022 Summer","Week 7",7,10,"Hanwha Life Esports",0,2,2,4,1,13,9,27,8
+"LCK 2022 Spring","Week 7",7,10,"KT Rolster",0,2,0,4,4,10,12,21,8
+"LCK 2021 Spring","Week 7",7,8,"Nongshim RedForce",0,1,0,2,5,10,14,21,8
+"LCK 2024 Summer","Week 7",7,10,"DRX",1,1,2,2,3,11,8,23,8
+"LCK 2024 Summer","Week 7",7,10,"Nongshim RedForce",0,2,0,4,3,11,8,23,8
+"LCK 2023 Summer","Week 7",7,10,"Liiv SANDBOX",1,1,2,2,4,10,10,21,8
+"LCK 2021 Summer","Week 7",7,8,"Fredit BRION",0,2,2,4,5,10,18,22,8
+"LCK 2024 Spring","Week 7",7,10,"FearX",0,2,1,4,3,11,9,24,9
+"LCK 2021 Spring","Week 7",7,8,"Liiv SANDBOX",1,0,2,0,4,11,10,23,9
+"LCK 2021 Spring","Week 7",7,8,"Fredit BRION",1,1,2,2,4,11,10,23,9
+"LCK 2023 Summer","Week 7",7,10,"Nongshim RedForce",2,0,4,2,4,10,10,23,9
+"LCK 2022 Spring","Week 7",7,10,"Hanwha Life Esports",0,2,1,4,3,11,11,23,9
+"LCK 2022 Summer","Week 7",7,10,"Fredit BRION",1,1,3,2,2,12,8,24,9
+"LCK 2022 Summer","Week 7",7,10,"Nongshim RedForce",1,1,2,3,3,11,8,24,9
+"LCK 2023 Spring","Week 7",7,10,"DRX",1,1,2,3,3,11,10,24,9
+"LCK 2021 Summer","Week 7",7,8,"Hanwha Life Esports",1,1,2,3,6,9,14,22,9
+"LCK 2023 Summer","Week 7",7,10,"DRX",0,2,1,4,3,11,10,24,10
+"LCK 2024 Spring","Week 7",7,10,"OKSavingsBank BRION",1,1,2,3,3,11,7,25,10
+"LCK 2022 Spring","Week 7",7,10,"Liiv SANDBOX",0,2,0,4,4,10,10,22,10
+"LCK 2024 Summer","Week 7",7,10,"OKSavingsBank BRION",1,1,2,2,2,12,8,25,10
+"LCK 2021 Summer","Week 7",7,8,"DRX",0,1,0,2,1,13,6,27,10
+"LCK 2023 Spring","Week 7",7,10,"Nongshim RedForce",0,2,1,4,1,13,6,27,10
+"LCK 2023 Spring","Week 8",8,10,"T1",2,0,4,1,15,1,31,8,1
+"LCK 2024 Summer","Week 8",8,10,"Gen.G",1,1,3,2,15,1,31,3,1
+"LCK 2023 Summer","Week 8",8,10,"KT Rolster",2,0,4,0,15,1,31,5,1
+"LCK 2022 Summer","Week 8",8,10,"Gen.G",2,0,4,1,15,1,31,4,1
+"LCK 2022 Spring","Week 8",8,10,"T1",2,0,4,1,16,0,32,6,1
+"LCK 2024 Spring","Week 8",8,10,"Gen.G",2,0,4,1,15,1,30,5,1
+"LCK 2021 Summer","Week 8",8,8,"Nongshim RedForce",1,1,3,3,12,5,27,17,1
+"LCK 2021 Spring","Week 8",8,8,"DWG KIA",2,0,4,0,15,1,30,8,1
+"LCK 2021 Summer","Week 8",8,8,"Gen.G",1,0,2,0,12,4,26,15,2
+"LCK 2023 Summer","Week 8",8,10,"Gen.G",2,0,4,0,15,1,30,5,2
+"LCK 2021 Spring","Week 8",8,8,"Gen.G",0,1,0,2,11,5,25,13,2
+"LCK 2023 Spring","Week 8",8,10,"Dplus KIA",2,0,4,1,12,4,26,10,2
+"LCK 2022 Spring","Week 8",8,10,"Gen.G",2,0,4,1,13,3,26,11,2
+"LCK 2024 Spring","Week 8",8,10,"T1",1,1,3,2,13,3,28,8,2
+"LCK 2024 Summer","Week 8",8,10,"Hanwha Life Esports",2,0,4,0,13,3,28,9,2
+"LCK 2022 Summer","Week 8",8,10,"T1",2,0,4,1,14,2,29,11,2
+"LCK 2022 Spring","Week 8",8,10,"DWG KIA",1,1,3,2,10,6,25,13,3
+"LCK 2021 Spring","Week 8",8,8,"Hanwha Life Esports",2,0,4,1,11,6,24,18,3
+"LCK 2024 Summer","Week 8",8,10,"Dplus KIA",2,0,4,2,11,5,25,16,3
+"LCK 2021 Summer","Week 8",8,8,"DWG KIA",1,1,3,2,10,6,25,14,3
+"LCK 2024 Spring","Week 8",8,10,"Hanwha Life Esports",2,0,4,2,13,3,26,10,3
+"LCK 2023 Spring","Week 8",8,10,"Gen.G",1,1,3,2,11,5,26,13,3
+"LCK 2022 Summer","Week 8",8,10,"Liiv SANDBOX",2,0,4,1,11,5,23,14,3
+"LCK 2023 Summer","Week 8",8,10,"Hanwha Life Esports",2,0,4,0,11,5,25,12,3
+"LCK 2022 Summer","Week 8",8,10,"DWG KIA",0,2,1,4,9,7,22,15,4
+"LCK 2024 Spring","Week 8",8,10,"KT Rolster",2,0,4,1,10,6,23,16,4
+"LCK 2021 Spring","Week 8",8,8,"T1",1,0,2,0,9,7,23,16,4
+"LCK 2023 Spring","Week 8",8,10,"KT Rolster",2,0,4,1,11,5,24,15,4
+"LCK 2021 Summer","Week 8",8,8,"Afreeca Freecs",1,1,3,3,10,7,23,21,4
+"LCK 2024 Summer","Week 8",8,10,"T1",1,1,2,2,9,7,21,18,4
+"LCK 2023 Summer","Week 8",8,10,"Dplus KIA",1,1,2,2,10,6,22,14,4
+"LCK 2022 Spring","Week 8",8,10,"DRX",2,0,4,1,11,5,22,15,4
+"LCK 2022 Spring","Week 8",8,10,"Fredit BRION",1,1,2,2,7,10,19,23,5
+"LCK 2022 Summer","Week 8",8,10,"KT Rolster",1,1,3,3,9,7,22,18,5
+"LCK 2024 Spring","Week 8",8,10,"Dplus KIA",0,2,1,4,9,7,21,17,5
+"LCK 2021 Spring","Week 8",8,8,"DRX",0,1,1,2,9,7,21,22,5
+"LCK 2023 Spring","Week 8",8,10,"Hanwha Life Esports",0,2,2,4,9,7,22,18,5
+"LCK 2024 Summer","Week 8",8,10,"Kwangdong Freecs",1,1,3,2,7,9,19,19,5
+"LCK 2021 Summer","Week 8",8,8,"Liiv SANDBOX",1,0,2,1,9,7,22,20,5
+"LCK 2023 Summer","Week 8",8,10,"T1",0,2,1,4,7,9,17,20,5
+"LCK 2022 Spring","Week 8",8,10,"Kwangdong Freecs",0,2,2,4,7,10,16,21,6
+"LCK 2021 Spring","Week 8",8,8,"KT Rolster",0,1,0,2,6,10,17,23,6
+"LCK 2024 Summer","Week 8",8,10,"KT Rolster",1,1,2,3,8,8,19,21,6
+"LCK 2021 Summer","Week 8",8,8,"T1",1,0,2,1,9,7,21,18,6
+"LCK 2022 Summer","Week 8",8,10,"DRX",2,0,4,1,9,7,21,19,6
+"LCK 2024 Spring","Week 8",8,10,"Kwangdong Freecs",0,2,2,4,6,10,16,23,6
+"LCK 2023 Spring","Week 8",8,10,"Liiv SANDBOX",1,1,2,3,9,7,21,21,6
+"LCK 2023 Summer","Week 8",8,10,"OKSavingsBank BRION",0,2,1,4,4,12,13,28,6
+"LCK 2022 Spring","Week 8",8,10,"KT Rolster",2,0,4,0,6,10,16,21,6
+"LCK 2021 Summer","Week 8",8,8,"KT Rolster",0,2,0,4,6,11,19,24,7
+"LCK 2021 Spring","Week 8",8,8,"Nongshim RedForce",1,1,2,3,6,11,16,24,7
+"LCK 2021 Summer","Week 8",8,8,"Fredit BRION",0,1,1,2,5,11,19,24,7
+"LCK 2022 Summer","Week 8",8,10,"Kwangdong Freecs",0,2,0,4,6,10,13,25,7
+"LCK 2023 Spring","Week 8",8,10,"Kwangdong Freecs",2,0,4,2,5,11,15,25,7
+"LCK 2023 Summer","Week 8",8,10,"Liiv SANDBOX",1,1,2,2,5,11,12,23,7
+"LCK 2024 Spring","Week 8",8,10,"FearX",2,0,4,1,5,11,13,25,7
+"LCK 2024 Summer","Week 8",8,10,"BNK FearX",1,1,3,3,8,8,17,20,7
+"LCK 2021 Spring","Week 8",8,8,"Afreeca Freecs",0,2,0,4,5,11,15,22,8
+"LCK 2024 Summer","Week 8",8,10,"Nongshim RedForce",1,1,3,2,4,12,11,25,8
+"LCK 2022 Spring","Week 8",8,10,"Nongshim RedForce",0,2,0,4,4,12,13,27,8
+"LCK 2023 Summer","Week 8",8,10,"Nongshim RedForce",1,1,2,3,5,11,12,26,8
+"LCK 2023 Spring","Week 8",8,10,"BRION",0,2,1,4,4,12,13,27,8
+"LCK 2022 Summer","Week 8",8,10,"Fredit BRION",1,1,3,3,3,13,11,27,8
+"LCK 2024 Spring","Week 8",8,10,"Nongshim RedForce",1,1,2,3,3,13,12,27,8
+"LCK 2023 Summer","Week 8",8,10,"DRX",1,1,2,3,4,12,12,27,9
+"LCK 2021 Spring","Week 8",8,8,"Liiv SANDBOX",1,1,3,2,5,12,13,25,9
+"LCK 2021 Summer","Week 8",8,8,"Hanwha Life Esports",1,1,3,2,7,10,17,24,9
+"LCK 2024 Spring","Week 8",8,10,"DRX",0,2,1,4,3,13,11,28,9
+"LCK 2022 Spring","Week 8",8,10,"Hanwha Life Esports",0,2,0,4,3,13,11,27,9
+"LCK 2024 Summer","Week 8",8,10,"DRX",0,2,0,4,3,13,8,27,9
+"LCK 2022 Summer","Week 8",8,10,"Nongshim RedForce",0,2,2,4,3,13,10,28,9
+"LCK 2023 Spring","Week 8",8,10,"DRX",0,2,1,4,3,13,11,28,9
+"LCK 2024 Summer","Week 8",8,10,"OKSavingsBank BRION",0,2,0,4,2,14,8,29,10
+"LCK 2021 Summer","Week 8",8,8,"DRX",1,1,2,3,2,14,8,30,10
+"LCK 2021 Spring","Week 8",8,8,"Fredit BRION",1,1,2,2,5,12,12,25,10
+"LCK 2022 Summer","Week 8",8,10,"Hanwha Life Esports",0,2,1,4,1,15,10,31,10
+"LCK 2023 Spring","Week 8",8,10,"Nongshim RedForce",0,2,1,4,1,15,7,31,10
+"LCK 2022 Spring","Week 8",8,10,"Liiv SANDBOX",0,2,0,4,4,12,10,26,10
+"LCK 2023 Summer","Week 8",8,10,"Kwangdong Freecs",0,2,0,4,4,12,10,24,10
+"LCK 2024 Spring","Week 8",8,10,"OKSavingsBank BRION",0,2,1,4,3,13,8,29,10
+"LCK 2022 Spring","Week 9",9,9,"T1",2,0,4,1,18,0,36,7,1
+"LCK 2021 Spring","Week 9",9,8,"DWG KIA",1,1,3,2,16,2,33,10,1
+"LCK 2023 Summer","Week 9",9,10,"KT Rolster",2,0,4,1,17,1,35,6,1
+"LCK 2024 Spring","Week 9",9,10,"Gen.G",2,0,4,0,17,1,34,5,1
+"LCK 2023 Spring","Week 9",9,10,"T1",2,0,4,0,17,1,35,8,1
+"LCK 2024 Summer","Week 9",9,10,"Gen.G",2,0,4,0,17,1,35,3,1
+"LCK 2022 Summer","Week 9",9,10,"Gen.G",2,0,4,1,17,1,35,5,1
+"LCK 2021 Summer","Week 9",9,8,"DWG KIA",2,0,4,0,12,6,29,14,1
+"LCK 2022 Summer","Week 9",9,10,"T1",1,1,2,2,15,3,31,13,2
+"LCK 2023 Summer","Week 9",9,10,"Gen.G",1,1,2,2,16,2,32,7,2
+"LCK 2024 Summer","Week 9",9,10,"Hanwha Life Esports",1,1,2,2,14,4,30,11,2
+"LCK 2023 Spring","Week 9",9,10,"Gen.G",2,0,4,0,13,5,30,13,2
+"LCK 2024 Spring","Week 9",9,10,"T1",2,0,4,0,15,3,32,8,2
+"LCK 2021 Spring","Week 9",9,8,"Gen.G",2,0,4,2,13,5,29,15,2
+"LCK 2021 Summer","Week 9",9,8,"Nongshim RedForce",0,1,0,2,12,6,27,19,2
+"LCK 2021 Summer","Week 9",9,8,"Gen.G",0,2,1,4,12,6,27,19,2
+"LCK 2022 Spring","Week 9",9,9,"Gen.G",1,0,2,1,14,3,28,12,2
+"LCK 2023 Spring","Week 9",9,10,"KT Rolster",2,0,4,0,13,5,28,15,3
+"LCK 2024 Summer","Week 9",9,10,"Dplus KIA",2,0,4,0,13,5,29,16,3
+"LCK 2022 Spring","Week 9",9,9,"DWG KIA",1,1,2,2,11,7,27,15,3
+"LCK 2024 Spring","Week 9",9,10,"Hanwha Life Esports",2,0,4,1,15,3,30,11,3
+"LCK 2022 Summer","Week 9",9,10,"Liiv SANDBOX",2,0,4,0,13,5,27,14,3
+"LCK 2023 Summer","Week 9",9,10,"Hanwha Life Esports",1,1,2,2,12,6,27,14,3
+"LCK 2021 Spring","Week 9",9,8,"T1",2,0,4,1,11,7,27,17,3
+"LCK 2023 Spring","Week 9",9,10,"Dplus KIA",0,2,0,4,12,6,26,14,4
+"LCK 2024 Summer","Week 9",9,10,"T1",2,0,4,1,11,7,25,19,4
+"LCK 2021 Spring","Week 9",9,8,"Hanwha Life Esports",1,0,2,0,12,6,26,18,4
+"LCK 2022 Summer","Week 9",9,10,"KT Rolster",1,1,3,2,10,8,25,20,4
+"LCK 2023 Summer","Week 9",9,10,"Dplus KIA",1,1,2,2,11,7,24,16,4
+"LCK 2022 Spring","Week 9",9,9,"DRX",0,2,0,4,11,7,22,19,4
+"LCK 2024 Spring","Week 9",9,10,"KT Rolster",1,1,3,2,11,7,26,18,4
+"LCK 2021 Summer","Week 9",9,8,"Liiv SANDBOX",2,0,4,1,11,7,26,21,4
+"LCK 2023 Spring","Week 9",9,10,"Hanwha Life Esports",1,1,2,3,10,8,24,21,5
+"LCK 2022 Summer","Week 9",9,10,"DWG KIA",1,1,2,2,10,8,24,17,5
+"LCK 2024 Summer","Week 9",9,10,"KT Rolster",1,1,2,2,9,9,21,23,5
+"LCK 2024 Summer","Week 9",9,10,"Kwangdong Freecs",0,2,2,4,7,11,21,23,5
+"LCK 2023 Summer","Week 9",9,10,"T1",2,0,4,1,9,9,21,21,5
+"LCK 2024 Spring","Week 9",9,10,"Dplus KIA",0,2,0,4,9,9,21,21,5
+"LCK 2022 Spring","Week 9",9,9,"Fredit BRION",1,0,2,0,8,10,21,23,5
+"LCK 2021 Summer","Week 9",9,8,"T1",2,0,4,1,11,7,25,19,5
+"LCK 2021 Spring","Week 9",9,8,"DRX",0,2,0,4,9,9,21,26,5
+"LCK 2021 Spring","Week 9",9,8,"Nongshim RedForce",1,0,2,0,7,11,18,24,6
+"LCK 2022 Summer","Week 9",9,10,"DRX",0,2,1,4,9,9,22,23,6
+"LCK 2024 Spring","Week 9",9,10,"Kwangdong Freecs",1,1,2,2,7,11,18,25,6
+"LCK 2021 Summer","Week 9",9,8,"Afreeca Freecs",1,0,2,0,11,7,25,21,6
+"LCK 2023 Summer","Week 9",9,10,"DRX",2,0,4,0,6,12,16,27,6
+"LCK 2022 Spring","Week 9",9,9,"Kwangdong Freecs",2,0,4,1,9,10,20,22,6
+"LCK 2023 Spring","Week 9",9,10,"Liiv SANDBOX",1,1,3,2,10,8,24,23,6
+"LCK 2022 Spring","Week 9",9,9,"KT Rolster",1,1,3,3,7,11,19,24,7
+"LCK 2023 Spring","Week 9",9,10,"Kwangdong Freecs",1,1,2,3,6,12,17,28,7
+"LCK 2021 Spring","Week 9",9,8,"KT Rolster",0,2,1,4,6,12,18,27,7
+"LCK 2024 Summer","Week 9",9,10,"BNK FearX",0,2,0,4,8,10,17,24,7
+"LCK 2024 Spring","Week 9",9,10,"FearX",1,1,3,2,6,12,16,27,7
+"LCK 2021 Summer","Week 9",9,8,"KT Rolster",1,0,2,1,7,11,21,25,7
+"LCK 2022 Summer","Week 9",9,10,"Nongshim RedForce",2,0,4,0,5,13,14,28,7
+"LCK 2023 Summer","Week 9",9,10,"OKSavingsBank BRION",1,1,2,2,5,13,15,30,7
+"LCK 2021 Spring","Week 9",9,8,"Afreeca Freecs",0,2,1,4,5,13,16,26,8
+"LCK 2024 Spring","Week 9",9,10,"Nongshim RedForce",1,1,2,3,4,14,14,30,8
+"LCK 2023 Summer","Week 9",9,10,"Liiv SANDBOX",0,2,1,4,5,13,13,27,8
+"LCK 2023 Spring","Week 9",9,10,"BRION",0,2,0,4,4,14,13,31,8
+"LCK 2022 Summer","Week 9",9,10,"Kwangdong Freecs",0,2,0,4,6,12,13,29,8
+"LCK 2022 Spring","Week 9",9,9,"Nongshim RedForce",1,1,3,2,5,13,16,29,8
+"LCK 2021 Summer","Week 9",9,8,"Fredit BRION",0,2,1,4,5,13,20,28,8
+"LCK 2024 Summer","Week 9",9,10,"Nongshim RedForce",1,1,2,2,5,13,13,27,8
+"LCK 2021 Spring","Week 9",9,8,"Liiv SANDBOX",1,0,2,0,6,12,15,25,9
+"LCK 2021 Summer","Week 9",9,8,"Hanwha Life Esports",0,1,0,2,7,11,17,26,9
+"LCK 2022 Spring","Week 9",9,9,"Hanwha Life Esports",0,2,1,4,3,15,12,31,9
+"LCK 2022 Summer","Week 9",9,10,"Hanwha Life Esports",1,1,2,3,2,16,12,34,9
+"LCK 2023 Spring","Week 9",9,10,"DRX",0,2,1,4,3,15,12,32,9
+"LCK 2023 Summer","Week 9",9,10,"Nongshim RedForce",0,2,1,4,5,13,13,30,9
+"LCK 2024 Spring","Week 9",9,10,"DRX",0,2,0,4,3,15,11,32,9
+"LCK 2024 Summer","Week 9",9,10,"DRX",1,1,2,3,4,14,10,30,9
+"LCK 2023 Summer","Week 9",9,10,"Kwangdong Freecs",0,2,0,4,4,14,10,28,10
+"LCK 2023 Spring","Week 9",9,10,"Nongshim RedForce",1,1,2,2,2,16,9,33,10
+"LCK 2024 Summer","Week 9",9,10,"OKSavingsBank BRION",0,2,0,4,2,16,8,33,10
+"LCK 2021 Summer","Week 9",9,8,"DRX",0,2,1,4,2,16,9,34,10
+"LCK 2021 Spring","Week 9",9,8,"Fredit BRION",0,1,0,2,5,13,12,27,10
+"LCK 2022 Spring","Week 9",9,9,"Liiv SANDBOX",0,2,1,4,4,14,11,30,10
+"LCK 2024 Spring","Week 9",9,10,"OKSavingsBank BRION",0,2,0,4,3,15,8,33,10
+"LCK 2022 Summer","Week 9",9,10,"Fredit BRION",0,2,0,4,3,15,11,31,10

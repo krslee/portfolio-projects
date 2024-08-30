@@ -1,0 +1,756 @@
+"tournament","league","region","year","team","player","ingamerole","total_champions_played","total_matches","matches_won","matches_lost","total_games","games_won","games_lost","kills","deaths","assists","gold_summed","cs_summed","damage_summed"
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Bang","Bot",10,18,11,13,42,16,26,152,95,150,582148,12479,577439
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Dread","Jungle",11,18,11,13,42,16,26,151,103,221,503520,9291,512734
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Fly","Mid",14,18,11,13,42,16,26,92,122,235,523147,11484,598665
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Kiin","Top",16,18,11,13,42,16,26,85,124,213,526704,11287,687894
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Lehends","Support",11,18,11,13,41,16,25,29,130,296,315656,1766,215314
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Afreeca Freecs","MapSSi","Support",1,1,0,1,1,0,1,0,5,12,8221,56,11549
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DRX","BAO","Bot",10,18,12,17,47,21,26,179,104,152,668062,14781,703830
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DRX","Becca","Support",12,18,12,17,47,21,26,35,150,313,357506,1946,206289
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DRX","Kingen","Top",16,18,12,17,47,21,26,91,121,250,599280,12260,738667
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DRX","Pyosik","Jungle",10,18,12,17,47,21,26,133,122,238,585118,11461,642668
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DRX","SOLKA","Mid",8,18,12,17,47,21,26,80,102,270,585199,13573,757370
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DWG KIA","BeryL","Support",13,18,17,8,43,33,10,50,150,388,364229,2389,304878
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DWG KIA","Canyon","Jungle",9,18,17,8,43,33,10,157,96,289,547777,10179,602230
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DWG KIA","Ghost","Bot",9,18,17,8,43,33,10,204,75,225,636873,12793,694257
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DWG KIA","Khan","Top",14,18,17,8,43,33,10,84,97,307,536155,10707,710047
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"DWG KIA","ShowMaker","Mid",12,18,17,8,43,33,10,152,68,287,606378,12972,790861
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Chieftain","Mid",2,1,0,1,2,0,2,1,8,1,15792,388,13352
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Chieftain","Jungle",1,1,0,1,1,0,1,3,4,6,12853,250,14596
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Delight","Support",9,18,7,14,39,12,27,22,112,257,280469,1440,156001
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Hena","Bot",8,18,7,14,39,12,27,130,80,148,548272,12925,519554
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Hoya","Top",10,18,7,14,39,12,27,55,100,156,428679,9382,444059
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Lava","Mid",12,13,5,11,28,8,20,46,59,142,354128,8276,421276
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","UmTi","Jungle",10,18,7,14,38,12,26,78,89,193,408272,7913,387132
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Fredit BRION","Yaharong","Mid",6,5,2,3,9,4,5,26,17,53,109949,2468,133914
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Bdd","Mid",5,17,15,9,41,28,13,121,64,213,536702,12092,674157
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Clid","Jungle",7,16,14,9,39,26,13,115,76,221,439888,7675,376220
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Flawless","Jungle",4,2,2,1,5,3,2,12,8,23,54513,940,46349
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Karis","Mid",2,1,1,1,3,1,2,2,6,8,35493,865,27758
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Life","Support",11,18,16,10,44,29,15,26,104,302,328857,1596,185352
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Rascal","Top",13,18,16,10,44,29,15,113,106,211,581904,12373,561991
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Gen.G","Ruler","Bot",11,18,16,10,44,29,15,158,71,176,648113,14711,642674
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Arthur","Jungle",8,10,8,9,27,14,13,92,75,173,293151,4981,269543
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Chovy","Mid",19,18,14,12,44,26,18,157,79,266,628124,14092,838412
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Deft","Bot",15,18,14,12,44,26,18,182,106,218,600897,12502,806734
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","DuDu","Top",6,6,1,6,8,1,7,22,20,23,94816,2055,121777
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Morgan","Top",14,17,14,8,36,25,11,77,75,234,426116,8767,489185
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Vsta","Support",17,18,14,12,44,26,18,35,136,369,332830,1801,248937
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","yoHan","Jungle",7,8,6,3,17,12,5,49,44,87,189501,3531,188053
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Blank","Jungle",7,8,6,6,17,9,8,44,41,117,201389,3540,169948
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Bonnie","Jungle",5,4,2,3,6,2,4,14,17,19,64971,1159,49618
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Doran","Top",15,18,12,15,45,18,27,86,120,215,593956,13073,752622
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Dove","Mid",9,8,6,6,17,8,9,35,29,60,221738,5191,250515
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","GIDEON","Jungle",8,9,5,8,22,7,15,46,50,83,243707,4753,180085
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","HyBriD","Bot",7,15,9,12,35,14,21,142,81,111,526453,11759,479039
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Noah","Bot",5,4,3,4,10,4,6,33,22,30,126796,2530,134152
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Ucal","Mid",8,13,7,11,28,10,18,80,69,141,395794,9150,539841
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"KT Rolster","Zzus","Support",6,18,12,15,45,18,27,20,145,310,341729,1836,153647
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Croco","Jungle",8,16,9,11,36,15,21,80,97,229,385883,6715,335283
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Effort","Support",8,18,9,13,40,15,25,27,146,270,287642,1478,156483
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","FATE","Mid",9,18,9,13,40,15,25,122,71,232,533657,12071,690520
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Leo","Bot",5,4,2,3,9,3,6,26,24,31,121452,2660,102595
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","OnFleek","Jungle",3,2,0,2,4,0,4,7,13,18,45981,877,32956
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Prince","Bot",5,9,5,6,20,9,11,82,45,67,277519,6203,309836
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Route","Bot",4,5,2,4,11,3,8,32,26,43,144169,3249,122370
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Summit","Top",12,18,9,13,40,15,25,104,131,198,509213,10892,644275
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Bay","Mid",9,18,11,13,42,18,24,66,105,234,491572,11166,566230
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Nongshim RedForce","deokdam","Bot",8,18,11,13,42,18,24,183,89,141,589320,12730,621908
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Kellin","Support",6,18,11,13,42,18,24,24,130,309,302123,1471,201316
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Peanut","Jungle",8,18,11,13,42,18,24,119,100,223,489780,9443,518268
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Rich","Top",11,18,11,13,42,18,24,84,127,202,472160,9679,652953
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Canna","Top",10,10,9,6,25,15,10,70,71,148,330000,6794,359622
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Clozer","Mid",9,9,7,5,21,12,9,57,49,122,288984,6484,337220
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Cuzz","Jungle",8,6,5,2,13,10,3,43,23,113,156459,2666,164756
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Ellim","Jungle",7,8,8,6,22,12,10,46,36,137,237096,4232,177462
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Faker","Mid",7,9,9,5,23,15,8,70,40,157,281880,5923,342477
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Gumayusi","Bot",6,8,7,6,21,10,11,94,40,76,307801,6948,271606
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Keria","Support",15,18,16,10,44,27,17,43,119,379,353845,2219,257358
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Oner","Jungle",3,4,3,2,9,5,4,30,24,56,108023,1993,110349
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Teddy","Bot",8,11,9,4,23,17,6,117,45,146,348762,6812,446948
+"LCK 2021 Spring","LoL Champions Korea","Korea",2021,"T1","Zeus","Top",7,8,7,4,19,12,7,42,47,104,225034,4629,248424
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DRX","BAO","Bot",3,1,1,1,4,1,3,11,12,14,55031,1239,67536
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DRX","Becca","Support",3,1,1,1,4,1,3,4,13,26,31217,151,16274
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DRX","Kingen","Top",2,1,1,1,4,1,3,12,14,15,54896,1156,80792
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DRX","Pyosik","Jungle",3,1,1,1,4,1,3,12,11,25,50868,1003,51789
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DRX","SOLKA","Mid",3,1,1,1,4,1,3,6,9,27,48565,1105,49761
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","BeryL","Support",5,2,2,0,6,6,0,11,13,41,61782,837,59103
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Canyon","Jungle",3,2,2,0,6,6,0,10,8,44,74784,1521,74314
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Ghost","Bot",4,2,2,0,6,6,0,27,8,40,83210,1288,118371
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Khan","Top",4,2,2,0,6,6,0,9,19,47,76842,1482,106086
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","ShowMaker","Mid",4,2,2,0,6,6,0,29,9,40,83565,1654,115816
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Bdd","Mid",3,2,1,1,6,3,3,15,12,36,77580,1775,115640
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Clid","Jungle",4,2,1,1,6,3,3,12,8,35,68579,1341,53523
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Life","Support",5,2,1,1,6,3,3,6,11,33,45878,154,21464
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Rascal","Top",3,2,1,1,6,3,3,7,13,32,72858,1552,67682
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Ruler","Bot",4,2,1,1,6,3,3,27,9,24,96663,2225,121864
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Arthur","Jungle",3,2,1,1,3,1,2,13,6,16,33510,548,33629
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Chovy","Mid",5,2,1,2,8,3,5,39,22,32,119984,2730,179457
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Deft","Bot",5,2,1,2,8,3,5,14,19,42,113175,2719,153868
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Morgan","Top",6,2,1,2,8,3,5,19,20,35,98887,2037,126817
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Vsta","Support",3,2,1,2,8,3,5,2,26,48,59407,274,48542
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","yoHan","Jungle",4,2,1,2,5,2,3,8,15,23,55471,1033,51663
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Bay","Mid",4,1,1,1,5,2,3,11,18,25,67465,1484,60749
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","deokdam","Bot",2,1,1,1,5,2,3,24,13,20,79389,1802,139844
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Kellin","Support",3,1,1,1,5,2,3,7,10,39,41974,191,29908
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Peanut","Jungle",3,1,1,1,5,2,3,20,12,30,66201,1291,61893
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Rich","Top",3,1,1,1,5,2,3,4,20,38,62984,1362,89084
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"T1","Canna","Top",6,2,1,2,7,3,4,19,17,22,93393,1954,93427
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"T1","Cuzz","Jungle",4,2,1,2,7,3,4,14,11,31,80141,1515,63936
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"T1","Faker","Mid",4,2,1,2,7,3,4,15,16,21,92513,2089,113132
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"T1","Keria","Support",5,2,1,2,7,3,4,2,17,38,55037,396,28539
+"LCK 2021 Spring Playoffs","LoL Champions Korea","Korea",2021,"T1","Teddy","Bot",6,2,1,2,7,3,4,18,17,26,99246,2175,128342
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Dread","Jungle",12,18,14,14,46,25,21,128,95,278,557007,10078,513582
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Fly","Mid",14,18,14,14,46,25,21,103,110,254,600494,13120,674857
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Kiin","Top",15,18,14,14,46,25,21,107,99,218,660646,14443,842252
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Lehends","Support",11,18,14,14,46,25,21,25,100,347,371341,2214,201598
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Leo","Bot",9,18,14,14,46,25,21,167,85,227,685303,14842,841543
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","BAO","Bot",6,8,3,8,19,3,16,32,42,54,247287,6134,274659
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Becca","Support",9,8,3,8,19,3,16,11,57,87,130839,729,76379
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Destroy","Top",1,1,0,1,1,0,1,1,5,1,11131,276,7333
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Jett","Mid",6,9,3,9,21,4,17,49,73,79,253467,5645,227321
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Jun","Support",9,10,4,10,24,6,18,17,75,148,178352,988,106417
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Kingen","Top",15,18,7,18,42,9,33,65,118,157,509272,11436,609490
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Kingen","Mid",1,1,0,1,1,0,1,1,3,1,11097,258,7108
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Pyosik","Jungle",11,18,7,18,43,9,34,118,148,166,487630,9229,540404
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","SOLKA","Mid",12,9,4,9,21,5,16,23,51,84,252707,6062,262136
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DRX","Taeyoon","Bot",8,10,4,10,24,6,18,60,58,81,323001,7599,378539
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","BeryL","Support",18,18,17,8,43,29,14,31,127,331,344816,2205,243099
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","Canyon","Jungle",10,14,13,6,33,22,11,111,74,225,391200,6565,433189
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","Canyon","Mid",6,4,4,2,10,7,3,23,19,65,124747,2559,124949
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","Ghost","Bot",10,14,13,6,33,22,11,112,69,205,440705,9213,532541
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","Khan","Top",16,18,17,8,43,29,14,128,134,263,555861,10878,741123
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","Malrang","Jungle",4,4,4,2,10,7,3,44,16,50,113090,1802,99847
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","ShowMaker","Bot",5,4,4,2,10,7,3,35,17,57,141045,3157,174097
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"DWG KIA","ShowMaker","Mid",14,14,13,6,33,22,11,123,52,190,441865,9018,550003
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Chieftain","Jungle",2,2,1,1,2,1,1,6,4,10,20726,354,20869
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Delight","Support",10,18,15,15,48,20,28,36,113,313,363799,2017,201198
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Hena","Bot",8,18,15,15,48,20,28,102,93,219,659732,15456,736870
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Hoya","Top",11,18,15,15,48,20,28,100,118,190,571921,12218,632146
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Lava","Mid",12,18,14,15,45,19,26,125,85,201,593780,13487,723508
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","UmTi","Jungle",11,18,15,15,46,19,27,105,96,232,508884,9368,468993
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Fredit BRION","Yaharong","Mid",3,2,1,2,3,1,2,9,5,9,40134,881,58795
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Bdd","Mid",12,18,15,13,46,27,19,126,88,275,596479,12871,708536
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Burdol","Top",3,3,2,2,6,3,3,27,20,23,78478,1541,84404
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Clid","Jungle",9,17,14,12,43,26,17,109,84,262,478201,8149,394400
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Life","Support",14,18,15,13,46,27,19,18,126,371,345330,1489,166086
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Rascal","Top",10,16,13,12,40,24,16,140,91,205,561322,11859,602195
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","Ruler","Bot",9,18,15,13,46,27,19,183,73,211,686273,15598,895639
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Gen.G","YoungJae","Jungle",3,1,1,1,3,1,2,2,8,19,29442,523,20641
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Arthur","Jungle",5,7,4,6,16,8,8,43,37,106,182027,3189,162051
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Chovy","Mid",21,18,10,15,43,17,26,132,81,195,596268,13626,715704
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Deft","Bot",15,18,10,15,43,17,26,117,101,206,583156,13307,815662
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","DuDu","Top",9,9,5,8,21,9,12,51,57,91,266452,5663,270806
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Morgan","Top",13,10,5,8,22,8,14,44,62,87,271915,5793,274951
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Vsta","Support",13,18,10,15,43,17,26,25,134,310,318981,1647,194198
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","Willer","Jungle",6,7,4,5,16,7,9,46,40,76,182460,3139,143450
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Hanwha Life Esports","yoHan","Jungle",4,5,2,5,11,2,9,37,47,61,116483,1877,158985
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","5kid","Bot",8,6,4,5,15,7,8,41,19,56,212282,5164,236329
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Blank","Jungle",8,18,13,11,41,19,22,89,88,270,436850,7820,396342
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Doran","Top",13,18,14,14,46,21,25,135,119,230,599683,12830,754637
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Dove","Mid",11,18,13,14,45,20,25,170,96,206,569786,12318,684238
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","GIDEON","Jungle",4,4,2,3,5,2,3,8,11,25,54276,904,36700
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Harp","Support",11,11,10,8,28,14,14,11,83,217,213405,1728,126323
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Noah","Bot",11,12,10,9,31,14,17,85,79,158,396306,8309,443943
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Ucal","Mid",1,1,1,0,1,1,0,4,0,4,18831,375,11343
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"KT Rolster","Zzus","Support",8,8,5,6,18,7,11,4,52,115,124171,651,68680
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Croco","Jungle",9,18,15,14,47,26,21,94,118,290,508252,8580,521176
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Effort","Support",9,18,15,14,47,26,21,25,140,324,352206,1690,160290
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","FATE","Mid",15,18,15,14,47,26,21,120,82,215,639700,14327,676228
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Prince","Bot",9,18,15,14,47,26,21,154,80,181,666417,15353,745853
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Summit","Top",13,18,15,14,47,26,21,121,148,214,616336,13253,742418
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Nongshim RedForce","deokdam","Bot",12,18,15,13,46,27,19,156,76,206,660012,14109,925705
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Gori","Mid",14,18,15,13,46,27,19,145,113,213,628523,13649,768037
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Kellin","Support",11,18,15,13,46,27,19,30,116,366,371865,1940,241656
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Peanut","Jungle",14,18,15,13,46,27,19,135,84,264,579484,10834,569307
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Rich","Top",13,18,15,13,46,27,19,123,124,236,610121,12471,836550
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Canna","Top",10,18,14,12,44,25,19,139,96,199,613805,12774,710300
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Cuzz","Jungle",9,10,7,6,23,12,11,54,52,141,272611,4815,270457
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Faker","Mid",16,18,14,12,44,25,19,99,89,213,589151,12704,585959
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Gumayusi","Bot",10,10,8,7,25,15,10,66,35,108,351366,8173,390813
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Keria","Support",11,18,14,12,44,25,19,32,105,314,363148,2542,224166
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Oner","Jungle",7,8,7,6,21,13,8,54,42,104,235956,3857,198037
+"LCK 2021 Summer","LoL Champions Korea","Korea",2021,"T1","Teddy","Bot",6,8,6,5,19,10,9,60,28,111,284590,5717,377380
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Dread","Jungle",2,1,1,1,4,1,3,10,14,31,40843,685,41343
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Fly","Mid",2,1,1,1,4,1,3,13,13,21,50741,1136,60132
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Kiin","Top",3,1,1,1,4,1,3,15,10,17,53358,1101,68582
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Lehends","Support",2,1,1,1,4,1,3,5,16,24,28731,156,9929
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Afreeca Freecs","Leo","Bot",3,1,1,1,4,1,3,7,14,18,44847,997,49846
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","BeryL","Support",4,2,2,1,7,6,1,4,18,82,56545,298,38503
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Canyon","Jungle",4,2,2,1,7,6,1,37,18,65,85484,1191,95499
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Ghost","Bot",4,2,2,1,7,6,1,23,14,68,95342,1987,134160
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","Khan","Top",4,2,2,1,7,6,1,40,20,49,102354,1838,142228
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"DWG KIA","ShowMaker","Mid",4,2,2,1,7,6,1,34,17,64,98819,1825,118929
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Bdd","Mid",4,1,1,1,4,1,3,11,14,17,58323,1246,64570
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Clid","Jungle",3,1,1,1,4,1,3,6,10,28,50359,878,38169
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Life","Support",2,1,1,1,4,1,3,3,12,30,35829,140,15824
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Rascal","Top",3,1,1,1,4,1,3,9,15,16,60919,1255,57432
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Gen.G","Ruler","Bot",2,1,1,1,4,1,3,14,11,13,71559,1574,79713
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Croco","Jungle",2,1,0,1,3,0,3,2,10,10,32951,611,25811
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Effort","Support",2,1,0,1,3,0,3,1,12,13,23552,117,10203
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","FATE","Mid",3,1,0,1,3,0,3,8,10,8,40020,829,33058
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Prince","Bot",3,1,0,1,3,0,3,2,13,7,41396,1022,42247
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Liiv SANDBOX","Summit","Top",2,1,0,1,3,0,3,12,8,8,48688,1054,60027
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","deokdam","Bot",5,2,1,2,7,3,4,25,21,49,96043,1956,114587
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Gori","Mid",6,2,1,2,7,3,4,30,18,36,94000,1993,108342
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Kellin","Support",5,2,1,2,7,3,4,3,31,69,52822,264,29266
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Peanut","Jungle",3,2,1,2,7,3,4,20,22,58,83119,1461,81754
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"Nongshim RedForce","Rich","Top",3,2,1,2,7,3,4,27,25,46,84327,1623,112063
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Canna","Top",5,3,3,2,11,7,4,41,35,61,157031,3112,199890
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Faker","Mid",5,3,3,2,11,7,4,36,31,59,162478,3489,194791
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Gumayusi","Bot",2,1,1,1,2,1,1,7,3,5,23196,495,37287
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Keria","Support",5,3,3,2,11,7,4,5,31,98,92011,432,50544
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Oner","Jungle",4,3,3,2,11,7,4,40,25,65,140981,2319,143454
+"LCK 2021 Summer Playoffs","LoL Champions Korea","Korea",2021,"T1","Teddy","Bot",6,3,2,2,9,6,3,35,14,54,150368,3299,194634
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","BeryL","Support",13,18,11,12,40,21,19,23,126,282,321731,1645,180592
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Clear","Top",1,1,1,0,1,1,0,2,5,4,10436,222,20141
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Deft","Bot",10,18,11,12,40,22,18,158,79,165,609527,13373,766075
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Jun","Support",1,1,1,0,1,1,0,1,1,10,7991,24,4417
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Kingen","Top",11,18,11,12,40,21,19,79,93,153,521113,11107,710852
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Peach","Jungle",1,1,1,0,1,1,0,1,2,8,9960,164,5886
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Pyosik","Jungle",8,18,11,12,40,21,19,79,103,212,436485,7491,298586
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","SeTab","Mid",1,1,1,0,1,1,0,4,2,5,12197,248,23587
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Taeyoon","Bot",1,1,0,1,1,0,1,1,4,0,8944,210,7928
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DRX","Zeka","Mid",14,18,11,12,40,21,19,102,67,177,553115,12369,678620
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","Burdol","Top",10,16,14,7,36,24,12,73,75,153,476564,10226,525665
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","Canyon","Jungle",14,18,16,8,42,27,15,106,86,266,507441,8696,416787
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","deokdam","Bot",8,18,16,8,42,27,15,177,64,171,660431,13959,778937
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","Hoya","Top",5,3,2,2,6,3,3,11,28,30,77109,1522,75765
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","Kellin","Support",11,18,16,8,42,27,15,33,80,333,355343,1318,247204
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"DWG KIA","ShowMaker","Mid",16,18,16,8,42,27,15,114,70,211,593063,12833,621333
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Delight","Support",11,17,13,13,43,21,22,33,120,314,360195,1887,198063
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Feisty","Mid",2,1,0,1,2,0,2,2,5,4,13600,319,13736
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Gamin","Bot",2,1,0,1,2,0,2,1,8,2,13612,317,8929
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Hena","Bot",10,17,13,13,42,21,21,131,71,204,655192,14595,750512
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Lava","Mid",11,17,13,13,42,21,21,148,79,213,630274,13629,812477
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Listo","Jungle",1,1,0,1,2,0,2,3,7,3,11295,198,10694
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Loopy","Support",1,1,0,1,2,0,2,1,10,3,8428,59,7139
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Morgan","Top",10,16,12,13,36,18,18,68,79,147,488563,10749,446354
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Raptor","Jungle",2,1,1,0,2,2,0,9,3,20,22880,352,23236
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Soboro","Top",2,1,0,1,2,0,2,1,11,0,11499,263,14278
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","Sw0rd","Top",4,5,2,3,6,3,3,13,15,30,81587,1665,99816
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Fredit BRION","UmTi","Jungle",7,16,12,13,40,19,21,83,90,231,464979,7825,330081
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Chovy","Mid",11,14,12,6,32,24,8,140,41,196,460513,9874,630677
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Chovy","Top",2,1,0,1,2,0,2,4,8,7,31345,715,34841
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Doran","Top",13,15,13,8,36,26,10,100,92,200,491883,10109,630189
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Lehends","Support",14,15,13,7,37,26,11,20,105,307,285531,1115,156863
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Lospa","Support",4,2,1,2,5,2,3,6,20,38,38264,120,19341
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Ophelia","Bot",3,2,1,2,5,2,3,15,9,16,70117,1586,90218
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Ophelia","Mid",3,1,1,1,3,2,1,4,6,12,42258,853,46994
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Peanut","Jungle",13,15,13,7,35,26,9,103,58,240,405131,6935,289440
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Quid","Mid",5,2,1,2,5,2,3,16,15,20,68512,1551,93906
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Ruler","Bot",11,15,13,7,35,26,9,147,51,191,525195,11346,692386
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","YoungJae","Jungle",4,2,1,2,5,2,3,8,19,31,52033,894,40996
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Gen.G","Zest","Top",2,1,1,0,2,2,0,4,4,7,24226,539,30906
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Baut","Support",4,2,1,2,6,1,5,4,18,37,44089,198,21640
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Cheoni","Bot",3,2,0,2,4,0,4,7,10,14,54948,1304,48350
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","DuDu","Top",14,18,9,16,43,12,31,83,123,141,546576,11896,611119
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Karis","Mid",14,18,9,16,43,12,31,99,99,198,539328,11787,660372
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","OnFleek","Jungle",9,16,8,14,38,11,27,66,125,181,431782,7680,326662
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","SamD","Bot",8,16,9,14,39,12,27,121,75,146,594770,13802,608352
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Seonbi","Jungle",2,1,0,1,2,0,2,8,5,8,18659,301,18639
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Vsta","Support",12,16,8,14,38,11,27,29,91,237,294657,1159,225461
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Willer","Jungle",2,1,1,1,3,1,2,5,9,19,30969,514,21645
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","Aiming","Bot",12,18,12,13,43,19,24,184,92,177,656412,14527,803775
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","Aria","Mid",11,12,8,9,29,12,17,58,61,141,367946,7982,403496
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","Cuzz","Jungle",11,18,12,12,40,18,22,80,94,247,434099,7435,328779
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","GIDEON","Jungle",2,2,1,2,3,1,2,6,7,10,33815,610,20421
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","Life","Support",15,18,12,13,43,19,24,37,127,300,334416,1377,233831
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","Rascal","Top",12,18,12,13,43,19,24,115,124,171,579586,12643,636906
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"KT Rolster","VicLa","Mid",9,6,4,4,14,7,7,37,32,96,166650,3620,205848
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Ellim","Jungle",10,19,12,12,42,20,22,86,111,243,439345,6737,339553
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","FATE","Mid",12,19,12,12,43,21,22,128,67,235,590960,12970,757084
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Hoit","Support",13,19,12,12,43,21,22,33,107,308,342939,1632,174883
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Kiin","Top",16,19,12,12,42,20,22,98,80,189,571549,12439,691518
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Teddy","Bot",7,19,12,12,42,20,22,156,60,195,634602,14295,757535
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Clozer","Top",1,1,0,1,1,0,1,1,4,0,14403,365,19713
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Clozer","Mid",12,16,7,14,36,11,25,80,103,134,443049,10113,529070
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Croco","Jungle",12,16,7,14,37,11,26,80,99,166,383707,6725,281559
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Dove","Top",11,16,7,14,36,11,25,62,119,113,412293,8834,478067
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Dove","Mid",1,1,0,1,1,0,1,2,3,1,14153,332,12310
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Envyy","Bot",7,5,1,4,9,2,7,19,24,27,109683,2598,115722
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","HamBak","Jungle",3,2,0,2,4,0,4,10,15,15,38420,661,28928
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Howling","Top",3,2,0,2,4,0,4,3,14,8,41413,981,44686
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Ice","Bot",7,14,6,13,32,9,23,78,79,97,415946,9661,423758
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Kael","Support",10,17,7,15,39,11,28,14,137,212,272002,1471,154451
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Prove","Support",2,1,0,1,2,0,2,1,9,11,14554,95,11652
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Ten10","Mid",3,2,0,2,4,0,4,3,14,17,39569,931,39236
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Bdd","Mid",14,16,10,14,40,15,25,92,84,176,525176,11740,594100
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Blessing","Support",1,1,0,1,1,0,1,0,6,9,7995,38,4772
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Canna","Top",12,16,11,14,41,16,25,119,106,156,589391,12595,759554
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","DnDn","Top",2,1,0,1,2,0,2,1,5,2,19057,469,15618
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Dread","Top",2,1,0,1,2,0,2,3,4,4,25516,596,25245
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Dread","Jungle",10,17,11,15,43,16,27,102,114,213,478629,8051,335156
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Effort","Support",2,7,4,6,15,4,11,9,61,90,118065,557,47001
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","FIESTA","Mid",3,2,1,2,5,1,4,4,19,17,60820,1435,70566
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Ghost","Support",4,3,1,3,6,1,5,1,24,19,40156,201,23011
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Ghost","Bot",9,15,10,13,38,15,23,104,91,161,561567,12820,605831
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Peter","Support",12,11,7,9,25,11,14,15,73,183,193411,721,129903
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Sylvie","Jungle",2,1,0,1,2,0,2,4,7,3,18257,296,11040
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"Nongshim RedForce","vital","Bot",4,3,1,3,7,1,6,15,14,12,94181,2262,90266
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"T1","Faker","Mid",12,18,18,7,43,36,7,160,81,235,593591,12062,755740
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"T1","Gumayusi","Bot",10,18,18,7,43,36,7,219,83,241,687133,14594,810336
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"T1","Keria","Support",16,18,18,7,44,37,7,33,105,474,369904,1394,278270
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"T1","Oner","Jungle",8,18,18,7,43,36,7,154,84,329,523065,8128,419339
+"LCK 2022 Spring","LoL Champions Korea","Korea",2022,"T1","Zeus","Top",11,18,18,7,43,36,7,121,99,239,589365,11782,791673
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DRX","BeryL","Support",4,1,1,1,5,2,3,3,21,33,41402,226,20153
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DRX","Deft","Bot",2,1,1,1,5,2,3,15,14,24,76201,1689,131765
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DRX","Kingen","Top",4,1,1,1,5,2,3,5,12,29,62914,1285,88613
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DRX","Pyosik","Jungle",2,1,1,1,5,2,3,13,16,25,60244,998,43974
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DRX","Zeka","Mid",4,1,1,1,5,2,3,18,13,18,73097,1452,85444
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Burdol","Top",4,2,2,1,5,4,1,18,13,28,69065,1325,76554
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Canyon","Jungle",6,2,2,1,8,5,3,29,20,46,98401,1611,75176
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","deokdam","Bot",5,2,2,1,8,5,3,31,14,43,122094,2650,156886
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Hoya","Top",2,1,1,1,3,1,2,9,6,18,39795,764,41167
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Kellin","Support",4,2,2,1,8,5,3,5,18,75,65078,275,34994
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","ShowMaker","Mid",5,2,2,1,8,5,3,27,20,47,116272,2345,130484
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Fredit BRION","Delight","Support",3,1,0,1,3,0,3,2,13,15,21219,93,9395
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Fredit BRION","Hena","Bot",2,1,0,1,3,0,3,5,11,7,38961,936,33423
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Fredit BRION","Lava","Mid",2,1,0,1,3,0,3,5,10,12,39541,911,50715
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Fredit BRION","Morgan","Top",3,1,0,1,3,0,3,2,14,8,30788,687,25645
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Fredit BRION","UmTi","Jungle",3,1,0,1,3,0,3,6,16,8,27681,460,17873
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Chovy","Mid",6,2,2,2,9,4,5,37,17,36,133450,2967,139221
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Doran","Top",7,2,2,2,9,4,5,20,43,46,106618,2063,126698
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Lehends","Support",5,2,2,2,9,4,5,4,20,63,70667,258,64104
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Peanut","Jungle",5,2,2,2,9,4,5,19,28,46,95640,1595,59384
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Ruler","Bot",3,2,2,2,9,4,5,34,15,32,135733,3112,172504
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Ellim","Jungle",4,2,1,2,8,3,5,13,23,42,72849,1126,46148
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","FATE","Mid",7,2,1,2,8,3,5,25,19,50,105337,2227,121536
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Hoit","Support",3,2,1,2,8,3,5,4,24,59,57796,326,27965
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Kiin","Top",5,2,1,2,8,3,5,13,21,44,87200,1804,103800
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Teddy","Bot",4,2,1,2,8,3,5,39,19,24,111169,2356,141896
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"T1","Faker","Mid",3,2,2,1,7,6,1,18,8,48,84294,1800,89663
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"T1","Gumayusi","Bot",3,2,2,1,7,6,1,37,7,42,103448,2166,125851
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"T1","Keria","Support",4,2,2,1,7,6,1,6,18,66,52296,241,36532
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"T1","Oner","Jungle",4,2,2,1,7,6,1,32,10,49,80666,1286,73764
+"LCK 2022 Spring Playoffs","LoL Champions Korea","Korea",2022,"T1","Zeus","Top",4,2,2,1,7,6,1,27,19,32,86368,1609,117654
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","BeryL","Support",15,18,13,14,45,22,23,35,150,354,384922,2923,259084
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","Deft","Bot",15,18,13,14,45,22,23,149,104,231,635483,12775,921411
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","Juhan","Jungle",3,2,1,2,3,1,2,7,11,11,29053,440,22237
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","Kingen","Top",11,18,13,14,45,22,23,79,104,244,574761,11941,771710
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","Pyosik","Jungle",11,18,13,13,42,21,21,116,100,248,475590,7834,388839
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DRX","Zeka","Mid",11,18,13,14,45,22,23,146,90,242,641723,14171,920505
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","Bible","Support",5,2,1,2,5,1,4,2,23,35,36835,152,23630
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","Canyon","Jungle",15,18,14,9,41,24,17,93,93,269,458147,7610,474515
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","deokdam","Bot",12,18,14,9,41,24,17,174,75,193,596587,12256,863389
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","Kellin","Support",10,16,13,7,36,23,13,29,70,319,284735,1065,240952
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","Nuguri","Top",11,18,14,9,41,24,17,88,91,200,530118,10720,704856
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"DWG KIA","ShowMaker","Mid",14,18,14,9,41,24,17,115,57,225,543123,11895,683875
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Delight","Support",13,18,8,16,42,11,31,19,111,234,311709,1645,168985
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Gamin","Bot",3,2,0,2,3,0,3,5,11,8,30611,710,19392
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Hena","Bot",11,17,8,15,39,11,28,107,83,135,558507,12800,597073
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Lava","Mid",12,18,8,16,42,11,31,88,97,179,552014,12544,732956
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Morgan","Top",11,15,8,13,36,11,25,68,83,122,471611,10127,498156
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Raptor","Jungle",3,1,1,1,3,1,2,3,9,12,30496,525,21726
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","Sw0rd","Top",3,3,0,3,6,0,6,11,19,11,77500,1590,102494
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Fredit BRION","UmTi","Jungle",8,17,7,15,39,10,29,59,98,178,391889,6626,289417
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Gen.G","Chovy","Mid",10,18,18,4,40,35,5,133,52,231,563860,12371,750686
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Gen.G","Doran","Top",11,18,18,4,40,35,5,90,75,227,524118,10594,675329
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Gen.G","Lehends","Support",13,18,18,4,40,35,5,20,72,383,312764,1609,219759
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Gen.G","Peanut","Jungle",9,18,18,4,40,35,5,108,63,260,434840,7179,318412
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Gen.G","Ruler","Bot",12,18,18,4,40,35,5,213,53,190,594515,11762,843224
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Cheoni","Bot",6,7,2,7,14,2,12,30,32,34,177385,4100,170066
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","DuDu","Top",13,18,10,18,46,12,34,87,127,125,569647,12295,692079
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Karis","Mid",13,18,10,18,46,12,34,72,116,163,520110,11707,620021
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","OnFleek","Jungle",9,18,10,18,43,12,31,64,132,159,431627,7499,343930
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","SamD","Bot",13,13,8,13,32,10,22,62,86,96,426495,9286,454579
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Vsta","Support",15,18,10,18,46,12,34,25,127,221,326528,1626,232091
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Hanwha Life Esports","Willer","Jungle",2,3,0,3,3,0,3,3,9,6,28110,521,13162
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","Aiming","Bot",13,18,15,12,45,25,20,200,66,197,696297,14880,983880
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","Aria","Mid",5,4,2,3,9,3,6,24,16,42,127568,2909,167676
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","Cuzz","Jungle",10,18,15,12,45,25,20,108,98,276,497645,8197,432283
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","Life","Support",13,18,15,12,45,25,20,31,99,397,364122,1491,243199
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","Rascal","Top",9,18,15,12,45,25,20,110,103,244,598151,12608,691827
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"KT Rolster","VicLa","Mid",10,14,13,9,36,22,14,82,80,236,482148,10626,674716
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Ellim","Jungle",10,18,7,17,42,13,29,73,117,198,415365,6373,273559
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","FATE","Mid",10,18,7,17,42,13,29,75,67,194,551883,12709,629070
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Hoit","Support",11,11,4,11,24,8,16,17,53,142,201067,1869,141723
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Kiin","Top",11,18,7,17,42,13,29,72,121,156,553762,11838,674726
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Moham","Support",8,9,3,8,18,5,13,15,47,89,150313,1217,90680
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Kwangdong Freecs","Teddy","Bot",13,18,7,17,42,13,29,122,90,169,596056,12471,723958
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Clozer","Mid",10,18,14,9,41,27,14,130,77,234,526018,11426,762867
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Croco","Jungle",8,18,14,9,41,27,14,103,104,288,426701,6838,385433
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Dove","Top",8,18,14,9,41,27,14,79,86,270,461698,9008,587253
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Kael","Support",11,18,14,9,41,27,14,29,94,406,305535,1270,184222
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Prince","Bot",9,18,14,9,41,27,14,213,65,193,616743,13184,804484
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Bdd","Mid",14,18,9,15,42,14,28,111,98,209,543139,11927,799569
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Canna","Top",13,18,9,15,42,14,28,89,104,185,543516,11511,705647
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Dread","Jungle",9,16,9,13,38,14,24,99,88,210,408856,6651,337433
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Effort","Support",9,12,4,10,22,6,16,13,74,157,178768,1342,111064
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Ghost","Bot",13,18,9,15,42,14,28,130,102,188,564979,11955,714817
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Peter","Support",1,1,0,1,1,0,1,0,1,2,5744,5,4606
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","SnowFlower","Support",9,9,6,7,19,8,11,12,54,157,138028,607,95775
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"Nongshim RedForce","Sylvie","Jungle",2,2,0,2,4,0,4,7,11,14,35577,593,23146
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"T1","Faker","Mid",15,18,16,10,44,31,13,97,85,257,577914,12370,745337
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"T1","Gumayusi","Bot",12,18,16,10,44,31,13,155,86,232,636241,12879,744648
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"T1","Keria","Support",21,18,16,10,44,31,13,36,82,334,362199,2498,263897
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"T1","Oner","Jungle",10,18,16,10,44,31,13,127,91,277,501529,8313,412990
+"LCK 2022 Summer","LoL Champions Korea","Korea",2022,"T1","Zeus","Top",13,18,16,10,44,31,13,129,114,240,586306,11409,781504
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DRX","BeryL","Support",3,1,1,1,4,1,3,0,14,37,32845,139,28084
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DRX","Deft","Bot",3,1,1,1,4,1,3,15,9,20,62424,1359,117576
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DRX","Kingen","Top",4,1,1,1,4,1,3,11,8,16,57372,1194,72452
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DRX","Pyosik","Jungle",2,1,1,1,4,1,3,10,15,25,45085,738,58299
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DRX","Zeka","Mid",4,1,1,1,4,1,3,9,9,24,54450,1214,80881
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Burdol","Top",6,2,2,2,9,4,5,13,29,36,116609,2539,129047
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Canyon","Jungle",5,2,2,2,10,5,5,18,19,69,110081,1758,97203
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","deokdam","Bot",7,2,2,2,10,5,5,48,19,44,163039,3331,198584
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Kellin","Support",6,2,2,2,10,5,5,6,18,90,83171,257,78839
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","Nuguri","Top",1,1,1,0,1,1,0,3,4,7,16259,331,15830
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"DWG KIA","ShowMaker","Mid",7,2,2,2,10,5,5,29,23,56,136459,2924,197039
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Chovy","Mid",3,2,2,1,7,6,1,28,6,62,100716,2118,162145
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Doran","Top",3,2,2,1,7,6,1,21,16,56,88943,1787,104629
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Lehends","Support",5,2,2,1,7,6,1,9,14,90,55639,179,52715
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Peanut","Jungle",4,2,2,1,7,6,1,17,15,74,75863,1203,67358
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Gen.G","Ruler","Bot",3,2,2,1,7,6,1,48,12,40,116029,2314,155871
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"KT Rolster","Aiming","Bot",4,1,1,1,5,2,3,19,10,15,85643,1899,94483
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"KT Rolster","Cuzz","Jungle",3,1,1,1,5,2,3,9,14,28,61028,954,55230
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"KT Rolster","Life","Support",4,1,1,1,5,2,3,3,13,37,42126,99,26966
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"KT Rolster","Rascal","Top",4,1,1,1,5,2,3,7,12,27,67828,1407,80463
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"KT Rolster","VicLa","Mid",3,1,1,1,5,2,3,15,16,24,78050,1827,103437
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Clozer","Mid",3,2,2,2,8,4,4,21,17,50,108135,2395,159497
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Croco","Jungle",6,2,2,2,8,4,4,22,29,59,84599,1284,80958
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Dove","Top",4,2,2,2,8,4,4,8,30,57,84905,1664,113761
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Kael","Support",6,2,2,2,8,4,4,4,29,67,60227,244,43008
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"Liiv SANDBOX","Prince","Bot",4,2,2,2,8,4,4,49,16,36,130689,2769,195755
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"T1","Faker","Mid",6,2,1,2,8,3,5,13,22,35,97776,2164,96011
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"T1","Gumayusi","Bot",4,2,1,2,8,3,5,25,16,26,119018,2811,136807
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"T1","Keria","Support",4,2,1,2,8,3,5,2,18,45,56959,183,40768
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"T1","Oner","Jungle",4,2,1,2,8,3,5,16,19,38,82859,1353,59954
+"LCK 2022 Summer Playoffs","LoL Champions Korea","Korea",2022,"T1","Zeus","Top",5,2,1,2,8,3,5,15,24,31,94366,1991,105370
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"BRION","Effort","Support",10,18,9,17,44,13,31,18,105,234,332162,1254,204315
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"BRION","Hena","Bot",9,18,9,17,44,13,31,98,94,122,587481,13498,797703
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"BRION","Karis","Mid",12,18,9,17,44,13,31,108,96,132,555318,12565,748945
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"BRION","Morgan","Top",10,18,9,17,44,13,31,70,108,119,548175,12368,585095
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"BRION","UmTi","Jungle",10,18,9,17,44,13,31,69,122,204,461684,8005,469936
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Dplus KIA","Canna","Top",9,18,14,8,40,26,14,92,65,163,492885,10726,595208
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Dplus KIA","Canyon","Jungle",10,18,14,8,40,26,14,86,67,244,421329,7093,401349
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Dplus KIA","Deft","Bot",12,18,14,8,40,26,14,166,56,179,583776,12762,847349
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Dplus KIA","Kellin","Support",12,18,14,8,40,26,14,28,57,364,310586,816,286223
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Dplus KIA","ShowMaker","Mid",15,18,14,8,40,26,14,114,58,206,505171,11130,772618
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","BeryL","Support",15,18,9,17,44,12,32,20,138,221,316683,1390,282249
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","Croco","Jungle",8,14,5,13,29,6,23,41,90,113,263429,4350,298851
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","deokdam","Bot",12,16,8,14,38,11,27,84,86,114,471848,10572,603470
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","FATE","Mid",14,18,9,17,44,12,32,90,97,113,503105,11651,748461
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","Juhan","Jungle",5,7,4,6,15,6,9,17,46,72,147256,2415,122722
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","Pleata","Bot",3,3,1,3,6,1,5,19,15,13,73166,1589,85092
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"DRX","Rascal","Top",17,18,9,17,44,12,32,78,130,125,522721,11514,627668
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Gen.G","Chovy","Mid",16,18,17,8,43,30,13,155,65,242,607169,12982,907316
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Gen.G","Delight","Support",14,18,17,8,43,30,13,36,79,419,361231,1260,300544
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Gen.G","Doran","Top",10,18,17,8,43,30,13,105,99,245,575483,11785,715728
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Gen.G","Peanut","Jungle",8,18,17,8,43,30,13,97,102,310,479281,7853,456446
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Gen.G","Peyz","Bot",10,18,17,8,43,30,13,209,68,201,652242,14128,894281
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Clid","Jungle",9,18,14,13,45,24,21,91,115,194,486686,7948,451391
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Kingen","Top",11,18,14,13,45,24,21,62,99,166,568199,12097,605241
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Life","Support",12,18,14,13,45,24,21,34,100,285,361391,1148,300165
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Viper","Bot",8,18,14,13,45,24,21,130,69,175,665553,15093,969182
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","ZEKA","Mid",17,18,14,13,45,24,21,132,90,158,631062,14350,889928
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"KT Rolster","Aiming","Bot",10,18,15,10,43,28,15,163,51,168,623592,13749,771636
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"KT Rolster","Bdd","Mid",15,18,15,10,43,28,15,131,60,184,537741,11660,644772
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"KT Rolster","Cuzz","Jungle",8,18,15,10,43,28,15,91,72,251,447685,7682,385750
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"KT Rolster","Kiin","Top",13,18,15,10,43,28,15,92,64,173,546737,11848,642871
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"KT Rolster","Lehends","Support",13,18,15,10,43,28,15,21,85,323,317638,1043,228671
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","BuLLDoG","Mid",16,18,11,16,45,17,28,92,111,172,585087,13279,857979
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","DuDu","Top",10,18,11,16,45,17,28,99,110,127,600036,13346,670185
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Jun","Support",6,10,6,8,24,8,16,10,61,134,186397,711,194823
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Moham","Support",11,8,5,8,21,9,12,8,58,150,164216,643,145357
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Taeyoon","Bot",11,18,11,16,45,17,28,124,112,162,633316,14655,825107
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","YoungJae","Jungle",6,18,11,16,45,17,28,81,100,209,482370,8397,432658
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Burdol","Top",9,18,14,15,47,24,23,91,100,152,595660,13436,719662
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Clozer","Mid",12,18,14,15,47,24,23,108,118,184,611461,14070,800645
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Envyy","Bot",11,18,14,15,47,24,23,148,101,172,644656,14579,865772
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Kael","Support",16,18,14,15,47,24,23,48,100,329,373852,1337,354775
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Willer","Jungle",8,18,14,15,47,24,23,100,99,245,502247,8695,433336
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Callme","Mid",3,2,1,1,4,2,2,13,7,18,44061,961,61856
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","DnDn","Top",15,18,7,17,42,9,33,67,113,146,474644,10632,568924
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","FIESTA","Mid",14,16,6,16,38,7,31,78,114,131,442999,10047,616356
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Peter","Support",9,18,7,17,42,9,33,25,88,268,287127,1018,172951
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Sylvie","Jungle",7,18,7,17,42,9,33,72,122,188,394208,6453,348285
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"Nongshim RedForce","vital","Bot",9,18,7,17,42,9,33,113,93,130,534691,12521,741543
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"T1","Faker","Mid",15,18,18,7,43,35,8,133,87,240,519885,10663,832409
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"T1","Gumayusi","Bot",12,18,18,7,43,35,8,172,79,227,601731,12748,794222
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"T1","Keria","Support",17,18,18,7,43,35,8,54,66,402,358093,1113,356694
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"T1","Oner","Jungle",10,18,18,7,43,35,8,130,89,296,461936,6886,418538
+"LCK 2023 Spring","LoL Champions Korea","Korea",2023,"T1","Zeus","Top",13,18,18,7,43,35,8,128,80,177,552139,11519,710910
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Canna","Top",3,1,1,1,4,1,3,7,7,12,50018,1134,69895
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Canyon","Jungle",3,1,1,1,4,1,3,6,10,14,40990,678,33965
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Deft","Bot",3,1,1,1,4,1,3,11,10,12,50445,1134,62432
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Kellin","Support",4,1,1,1,4,1,3,0,9,24,28158,76,21258
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","ShowMaker","Mid",2,1,1,1,4,1,3,4,10,10,46892,1155,60406
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Chovy","Mid",6,4,4,4,16,10,6,56,23,88,230327,4908,326429
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Delight","Support",7,4,4,4,16,10,6,9,36,149,133422,599,74995
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Doran","Top",7,4,4,4,16,10,6,23,42,98,204148,4109,244230
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Peanut","Jungle",7,4,4,4,16,10,6,47,41,91,190378,3138,166636
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Peyz","Bot",5,4,4,4,16,10,6,80,29,74,257693,5719,371320
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Clid","Jungle",4,3,3,3,12,5,7,7,28,66,121503,2128,94179
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Kingen","Top",5,3,3,3,12,5,7,24,24,43,150221,3259,162905
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Life","Support",6,3,3,3,12,5,7,7,25,73,90187,392,45491
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Viper","Bot",5,3,3,3,12,5,7,44,18,36,179414,4108,257657
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","ZEKA","Mid",8,3,3,3,12,5,7,29,33,36,161851,3833,154105
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Aiming","Bot",6,4,4,4,17,9,8,71,35,80,269527,5765,343991
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Bdd","Mid",5,4,4,4,17,9,8,38,37,113,234363,5124,283211
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Cuzz","Jungle",5,4,4,4,17,9,8,53,44,102,201889,3442,192083
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Kiin","Top",9,4,4,4,17,9,8,36,36,97,228906,4902,288244
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Lehends","Support",6,4,4,4,17,9,8,9,36,122,135422,656,73102
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Burdol","Top",2,1,1,1,4,1,3,4,11,8,42089,972,32129
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Clozer","Mid",3,1,1,1,4,1,3,3,9,13,43271,1093,44768
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Envyy","Bot",2,1,1,1,4,1,3,10,10,10,51695,1198,61086
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Kael","Support",2,1,1,1,4,1,3,3,12,17,26878,135,12656
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Willer","Jungle",3,1,1,1,4,1,3,7,8,14,39779,696,21339
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"T1","Faker","Mid",8,3,3,3,13,7,6,33,38,91,182688,3935,236220
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"T1","Gumayusi","Bot",7,3,3,3,13,7,6,72,28,66,232075,4947,345300
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"T1","Keria","Support",8,3,3,3,13,7,6,12,39,137,118386,477,103049
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"T1","Oner","Jungle",6,3,3,3,13,7,6,41,40,90,166696,2567,152785
+"LCK 2023 Spring Playoffs","LoL Champions Korea","Korea",2023,"T1","Zeus","Top",7,3,3,3,13,7,6,29,47,84,176013,3434,227455
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Bible","Support",6,6,4,3,13,8,5,12,43,109,107829,489,51288
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Canna","Top",11,18,13,9,40,24,16,86,94,191,488374,10179,632273
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Canyon","Jungle",15,18,13,9,40,24,16,89,90,291,447739,7781,415209
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Deft","Bot",10,17,12,8,37,23,14,173,75,201,537778,11256,885295
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Kellin","Support",13,12,9,6,27,16,11,19,49,252,199660,785,145127
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","Rahel","Bot",3,1,1,1,3,1,2,7,5,4,41188,944,42693
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Dplus KIA","ShowMaker","Mid",12,18,13,9,40,24,16,139,72,208,523245,11138,781288
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","BeryL","Support",14,18,10,15,43,16,27,15,140,278,308420,1665,219962
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","Croco","Jungle",13,12,6,10,25,9,16,41,69,155,245218,3892,222709
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","FATE","Mid",10,14,9,11,34,15,19,92,60,156,429629,9620,631566
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","Juhan","Jungle",8,9,4,8,18,7,11,23,51,96,175108,2907,133273
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","kyeahoo","Mid",4,3,1,3,7,1,6,13,19,11,64601,1424,76346
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","Kyeahoo","Mid",1,1,0,1,2,0,2,2,5,12,23599,557,34826
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","Paduck","Bot",9,18,10,15,43,16,27,136,105,155,555725,12204,763806
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"DRX","Rascal","Top",13,18,10,15,43,16,27,93,128,150,500658,10681,582772
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Gen.G","Chovy","Mid",10,18,16,5,39,32,7,104,53,266,503217,11053,725396
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Gen.G","Delight","Support",11,18,16,5,39,32,7,25,65,379,296350,1332,169279
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Gen.G","Doran","Top",10,18,16,5,39,32,7,101,82,220,494628,9880,615687
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Gen.G","Peanut","Jungle",11,18,16,5,39,32,7,99,59,282,428372,7313,388591
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Gen.G","Peyz","Bot",12,18,16,5,39,32,7,234,59,168,566970,11888,791430
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Clid","Jungle",6,6,6,3,15,10,5,34,34,96,164625,2781,130348
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Grizzly","Jungle",7,12,9,5,26,17,9,58,63,193,271940,4342,249601
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Kingen","Top",13,18,15,8,41,27,14,71,76,208,492126,10534,624266
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Life","Support",11,18,15,8,41,27,14,31,105,357,305725,1139,177651
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Viper","Bot",10,18,15,8,41,27,14,188,76,182,595259,13294,844726
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Zeka","Mid",8,18,15,8,41,27,14,159,72,216,550347,11944,728657
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Aiming","Bot",9,18,18,5,40,34,6,229,49,218,589534,12290,754704
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Bdd","Mid",9,18,18,5,40,34,6,135,58,280,482796,10206,661601
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Cuzz","Jungle",9,18,18,5,40,34,6,101,65,345,418703,6854,367455
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Feisty","Mid",1,1,1,0,1,1,0,6,2,13,17752,331,28112
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","HamBak","Jungle",1,1,1,0,1,1,0,2,1,15,13280,218,12103
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Hype","Bot",1,1,1,0,1,1,0,10,3,12,18348,345,25602
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Kiin","Top",13,18,18,5,40,34,6,111,56,246,487071,10261,578680
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Lehends","Support",9,18,18,5,40,34,6,21,81,404,290117,1235,151550
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","PerfecT","Top",1,1,1,0,1,1,0,2,1,11,14317,305,16874
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"KT Rolster","Way","Support",1,1,1,0,1,1,0,3,4,13,9909,38,4988
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Andil","Support",7,9,2,9,20,2,18,10,72,87,135173,680,77798
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","BuLLDoG","Mid",13,18,6,14,38,10,28,75,106,141,479841,11153,736977
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","DuDu","Top",9,18,6,14,38,10,28,83,92,133,471261,10701,643282
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Jun","Support",8,9,4,5,18,8,10,10,52,135,133683,475,111393
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","Taeyoon","Bot",9,18,6,14,38,10,28,106,134,123,507218,11599,679027
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Kwangdong Freecs","YoungJae","Jungle",10,18,6,14,38,10,28,52,95,195,385646,6812,331116
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Burdol","Top",9,10,4,9,23,6,17,46,65,97,272244,5723,330248
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Clear","Top",4,8,4,5,17,7,10,30,43,88,190089,4549,243038
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Clozer","Mid",12,18,8,14,40,13,27,126,106,186,529551,12574,772947
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Kael","Support",13,18,8,14,40,13,27,15,127,316,284743,1326,165890
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Teddy","Bot",10,18,8,14,40,13,27,159,111,176,545923,12862,797631
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Liiv SANDBOX","Willer","Jungle",12,18,8,14,40,13,27,85,110,250,413825,7144,343769
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","DnDn","Top",12,18,8,17,43,13,30,57,125,143,482697,10897,601258
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","FIESTA","Mid",9,14,7,13,31,10,21,84,88,153,374045,7989,572600
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Jiwoo","Bot",9,15,7,14,36,11,25,137,112,135,498651,11328,668290
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Peter","Support",9,18,8,17,43,13,30,22,106,293,302228,1281,163761
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Quad","Mid",5,7,2,6,12,3,9,13,28,31,125803,2893,138392
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","Sylvie","Jungle",10,18,8,17,43,13,30,81,115,192,439504,7450,357480
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"Nongshim RedForce","vital","Bot",4,3,1,3,7,2,5,16,13,12,92242,2245,95209
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","Effort","Support",11,18,10,17,45,15,30,16,107,266,328901,1487,163677
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","Hena","Bot",9,18,10,17,45,15,30,133,80,134,620305,14575,774154
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","Ivory","Mid",6,4,2,4,10,3,7,12,29,30,118646,2882,155818
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","Karis","Mid",9,14,8,13,35,12,23,80,63,140,451850,10363,573486
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","Morgan","Top",8,18,10,17,45,15,30,85,101,129,567846,12924,675164
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"OKSavingsBank BRION","UmTi","Jungle",13,18,10,17,45,15,30,54,103,241,459680,7807,381056
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Faker","Mid",9,10,9,5,24,17,7,64,58,133,287215,6423,433974
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Gumayusi","Bot",12,18,12,12,42,21,21,178,79,183,601186,13994,813626
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Keria","Support",13,18,12,12,42,21,21,23,103,350,306292,1387,198324
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Oner","Jungle",15,18,12,12,42,21,21,107,104,253,439834,7229,437582
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Poby","Mid",6,8,3,7,18,4,14,32,57,59,228114,5232,287782
+"LCK 2023 Summer","LoL Champions Korea","Korea",2023,"T1","Zeus","Top",13,18,12,12,42,21,21,82,99,218,489040,11007,659733
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Canna","Top",2,1,1,1,4,1,3,10,10,9,47523,1009,38650
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Canyon","Jungle",2,1,1,1,4,1,3,5,7,18,39663,667,32087
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Deft","Bot",3,1,1,1,4,1,3,8,11,14,55204,1320,76290
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","Kellin","Support",2,1,1,1,4,1,3,1,3,22,29501,159,16746
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Dplus KIA","ShowMaker","Mid",2,1,1,1,4,1,3,9,9,14,56287,1302,76283
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"DRX","BeryL","Support",2,1,0,1,3,0,3,3,19,22,24191,136,20378
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"DRX","Croco","Jungle",2,1,0,1,3,0,3,13,18,21,38609,644,44140
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"DRX","FATE","Mid",2,1,0,1,3,0,3,12,12,15,38321,837,70222
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"DRX","Paduck","Bot",2,1,0,1,3,0,3,6,13,16,41751,968,63948
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"DRX","Rascal","Top",3,1,0,1,3,0,3,8,15,16,39687,789,64158
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Chovy","Mid",7,3,3,1,11,9,2,41,17,78,140870,2861,173746
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Delight","Support",7,3,3,1,11,9,2,8,22,125,85844,420,55519
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Doran","Top",7,3,3,1,11,9,2,34,20,64,136958,2804,155226
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Peanut","Jungle",4,3,3,1,11,9,2,20,13,117,113871,1835,110811
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Gen.G","Peyz","Bot",6,3,3,1,11,9,2,65,17,57,161539,3446,188033
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Grizzly","Jungle",6,3,1,2,9,3,6,11,36,61,90581,1502,82924
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Kingen","Top",4,3,1,2,9,3,6,18,21,48,108373,2341,131632
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Life","Support",6,3,1,2,9,3,6,7,28,72,67963,327,36340
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Viper","Bot",4,3,1,2,9,3,6,35,14,50,128980,2907,198184
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"Hanwha Life Esports","Zeka","Mid",4,3,1,2,9,3,6,36,23,43,123420,2727,165862
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Aiming","Bot",6,3,3,2,13,7,6,63,16,60,204591,4378,261488
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Bdd","Mid",7,3,3,2,13,7,6,47,26,72,163208,3439,225210
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Cuzz","Jungle",7,3,3,2,13,7,6,26,30,99,140374,2321,130055
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Kiin","Top",7,3,3,2,13,7,6,27,31,66,159145,3307,176217
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"KT Rolster","Lehends","Support",7,3,3,2,13,7,6,4,31,116,96273,505,47757
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"T1","Faker","Mid",8,5,4,5,22,11,11,48,60,110,268409,5820,409425
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"T1","Gumayusi","Bot",9,5,4,5,22,11,11,76,51,94,322696,7394,426008
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"T1","Keria","Support",8,5,4,5,22,11,11,12,60,184,164605,646,99353
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"T1","Oner","Jungle",7,5,4,5,22,11,11,34,63,145,224356,3559,220110
+"LCK 2023 Summer Playoffs","LoL Champions Korea","Korea",2023,"T1","Zeus","Top",8,5,4,5,22,11,11,63,56,90,276605,5749,337895
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Dplus KIA","Aiming","Bot",12,18,12,12,42,21,21,164,73,194,663160,14330,914383
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Dplus KIA","Kellin","Support",14,18,12,12,42,21,21,28,95,351,370726,2313,273831
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Dplus KIA","Kingen","Top",12,18,12,12,42,21,21,108,93,170,581671,12476,755718
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Dplus KIA","Lucid","Jungle",9,18,12,12,42,21,21,64,98,299,453277,7645,319722
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Dplus KIA","ShowMaker","Mid",15,18,12,12,42,21,21,145,91,217,579792,12251,899521
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","Frog","Top",2,2,0,2,2,0,2,2,8,2,21000,477,25488
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","kyeahoo","Mid",6,8,4,6,18,6,12,31,40,92,222752,5054,315762
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","Pleata","Support",15,18,8,17,43,11,32,22,102,229,346310,2632,261065
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","Rascal","Top",12,18,8,17,41,11,30,67,111,119,500788,11240,567471
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","SeTab","Mid",10,11,4,11,25,5,20,49,70,67,320279,7319,432155
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","Sponge","Jungle",9,18,8,17,43,11,32,58,148,201,426708,7535,377609
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"DRX","Teddy","Bot",13,18,8,17,43,11,32,124,98,140,568920,12389,1010229
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"FearX","Clear","Top",12,18,10,15,43,16,27,106,105,184,561689,12041,682033
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"FearX","Clozer","Mid",13,18,10,15,43,16,27,102,108,217,584164,13781,793270
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"FearX","Execute","Support",13,18,10,15,43,16,27,23,152,334,347115,1817,251457
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"FearX","Hena","Bot",11,18,10,15,43,16,27,158,106,210,592913,12688,936664
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"FearX","Willer","Jungle",15,18,10,15,43,16,27,103,103,251,477151,8698,449587
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Gen.G","Canyon","Jungle",10,18,17,4,39,34,5,67,63,355,416134,6825,361118
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Gen.G","Chovy","Mid",16,18,17,4,39,34,5,177,63,225,576478,12140,880002
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Gen.G","Kiin","Top",14,18,17,4,39,34,5,121,68,201,494651,10050,631486
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Gen.G","Lehends","Support",11,18,17,4,39,34,5,29,71,382,338691,2271,218143
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Gen.G","Peyz","Bot",7,18,17,4,39,34,5,202,55,228,560587,11045,837118
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Delight","Support",13,18,15,8,41,30,11,27,67,431,348860,2270,214465
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Doran","Top",12,18,15,8,41,30,11,104,105,232,513961,10701,706393
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Peanut","Jungle",10,18,15,8,41,30,11,80,74,343,427291,7352,340180
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Viper","Bot",10,18,15,8,41,30,11,194,55,242,563105,11820,917994
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Zeka","Mid",8,18,15,8,41,30,11,185,66,230,570907,12139,802752
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"KT Rolster","Bdd","Mid",10,18,15,11,44,26,18,150,99,319,612114,13132,924188
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"KT Rolster","BeryL","Support",16,18,15,11,44,26,18,56,130,415,418687,3573,337673
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"KT Rolster","Deft","Bot",15,18,15,11,44,26,18,195,98,258,646861,12500,1051139
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"KT Rolster","PerfecT","Top",10,18,15,11,44,26,18,102,107,226,567047,11892,701950
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"KT Rolster","Pyosik","Jungle",13,18,15,11,44,26,18,118,111,312,501909,8518,459950
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Andil","Support",16,15,9,12,36,14,22,22,143,295,312916,2108,287362
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Bull","Bot",15,16,11,12,39,18,21,145,113,204,531968,10633,725517
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","BuLLDoG","Mid",11,18,11,14,43,18,25,132,101,225,594652,13097,1013132
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Cuzz","Jungle",12,18,11,14,43,18,25,88,141,284,482601,8764,431157
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","DuDu","Top",8,18,11,14,43,18,25,108,113,200,585549,12998,730121
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Quantum","Support",6,3,2,2,7,4,3,2,23,62,58869,291,67727
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Taeyoon","Bot",3,2,0,2,4,0,4,8,20,6,45642,1062,74659
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Calix","Mid",2,1,1,1,2,1,1,2,9,10,22320,522,33074
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Callme","Mid",9,17,9,14,35,12,23,78,117,169,458400,10305,728989
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","DnDn","Top",10,18,10,16,44,14,30,68,121,133,556639,12526,637956
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","FIESTA","Mid",4,5,1,5,7,1,6,23,21,32,92060,1914,143111
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Jiwoo","Bot",11,18,10,16,44,14,30,167,107,132,623680,13645,1028674
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Peter","Support",11,18,10,16,44,14,30,23,102,309,356252,2050,214593
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Sylvie","Jungle",12,18,10,16,44,14,30,68,132,241,445907,7717,382681
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","DDoiV","Jungle",4,2,0,2,4,0,4,4,15,17,36893,659,32673
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Effort","Support",10,7,1,7,14,1,13,3,46,68,107766,634,67789
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Envyy","Bot",12,15,5,15,35,8,27,118,102,111,465278,10518,771204
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","GIDEON","Jungle",12,16,5,16,37,8,29,49,108,214,368587,6672,326177
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Karis","Mid",10,18,5,18,40,8,32,78,115,170,497164,11557,688303
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Morgan","Top",9,18,5,18,41,8,33,85,118,149,493083,11180,666741
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Pollu","Support",12,12,4,12,27,7,20,15,79,191,207491,1037,154429
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Pullbae","Mid",1,1,0,1,1,0,1,1,6,12,10760,230,19827
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Samver","Bot",5,3,0,3,6,0,6,21,14,13,68655,1479,93702
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Faker","Mid",10,18,17,5,40,32,8,151,77,288,537092,11063,777308
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Gumayusi","Bot",13,18,17,5,40,32,8,170,76,260,554154,10092,800363
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Guwon","Jungle",2,1,1,0,2,2,0,9,4,22,23095,337,23207
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Keria","Support",18,18,17,5,40,32,8,70,74,373,373172,3270,414784
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Oner","Jungle",11,17,16,5,38,30,8,91,94,302,415387,7070,344487
+"LCK 2024 Spring","LoL Champions Korea","Korea",2024,"T1","Zeus","Top",13,18,17,5,40,32,8,146,93,178,540701,11248,741578
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Dplus KIA","Aiming","Bot",5,3,2,3,13,5,8,55,20,58,208147,4467,335356
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Dplus KIA","Kellin","Support",8,3,2,3,13,5,8,8,36,106,108394,469,102828
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Dplus KIA","Kingen","Top",7,3,2,3,13,5,8,24,45,53,156357,3235,169590
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Dplus KIA","Lucid","Jungle",7,3,2,3,13,5,8,29,36,75,149650,2614,108184
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Dplus KIA","ShowMaker","Mid",7,3,2,3,13,5,8,43,29,63,185739,3971,266947
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Gen.G","Canyon","Jungle",9,3,3,3,14,9,5,26,34,120,165051,2856,141173
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Gen.G","Chovy","Mid",5,3,3,3,14,9,5,56,31,105,232589,5029,443314
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Gen.G","Kiin","Top",7,3,3,3,14,9,5,45,37,93,197710,3916,315189
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Gen.G","Lehends","Support",6,3,3,3,14,9,5,12,41,151,123320,608,115810
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Gen.G","Peyz","Bot",8,3,3,3,14,9,5,59,30,93,226049,4739,347576
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Delight","Support",8,4,4,2,14,8,6,16,44,172,128118,750,81229
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Doran","Top",6,4,4,2,14,8,6,37,40,102,185345,3636,287458
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Peanut","Jungle",6,4,4,2,14,8,6,43,41,133,169556,2844,156479
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Viper","Bot",5,4,4,2,14,8,6,74,34,106,224222,4714,381676
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Zeka","Mid",6,4,4,2,14,8,6,66,31,107,206935,4375,353379
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"KT Rolster","Bdd","Mid",4,1,1,1,5,2,3,17,14,22,67609,1505,113902
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"KT Rolster","BeryL","Support",4,1,1,1,5,2,3,10,16,29,41803,195,42591
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"KT Rolster","Deft","Bot",5,1,1,1,5,2,3,7,10,30,68358,1526,117090
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"KT Rolster","PerfecT","Top",4,1,1,1,5,2,3,14,16,23,66568,1324,97650
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"KT Rolster","Pyosik","Jungle",4,1,1,1,5,2,3,11,15,30,55148,937,45681
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Bull","Bot",2,1,0,1,3,0,3,2,12,10,30567,748,33383
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","BuLLDoG","Mid",2,1,0,1,3,0,3,4,14,14,32618,771,67071
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Cuzz","Jungle",2,1,0,1,3,0,3,6,9,14,28869,535,25859
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","DuDu","Top",2,1,0,1,3,0,3,11,12,6,35320,732,53708
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Quantum","Support",3,1,0,1,3,0,3,3,20,10,20267,109,21119
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"T1","Faker","Mid",5,4,3,3,15,8,7,60,35,78,237149,4987,378637
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"T1","Gumayusi","Bot",9,4,3,3,15,8,7,52,43,108,223235,4155,347997
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"T1","Keria","Support",13,4,3,3,15,8,7,11,44,144,148164,1493,143288
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"T1","Oner","Jungle",8,4,3,3,15,8,7,43,50,103,192125,3341,205507
+"LCK 2024 Spring Playoffs","LoL Champions Korea","Korea",2024,"T1","Zeus","Top",7,4,3,3,15,8,7,37,44,87,216719,4133,290701
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Clear","Top",10,18,9,14,41,17,24,101,119,195,482535,10204,678529
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Clozer","Mid",9,18,9,14,41,17,24,129,83,207,555427,12741,868461
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Duro","Support",7,13,8,9,30,15,15,14,86,243,223574,1318,116769
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Execute","Support",5,5,1,5,11,2,9,5,48,87,84442,386,50629
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Hena","Bot",11,18,9,14,41,17,24,135,83,216,528987,11279,738516
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"BNK FearX","Raptor","Jungle",11,18,9,14,41,17,24,104,108,257,438309,7846,577367
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","Aiming","Bot",11,18,16,11,45,29,16,301,61,222,739124,15420,1238703
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","Kellin","Support",11,14,12,9,35,21,14,20,106,341,275783,1005,200782
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","Kingen","Top",13,18,16,11,45,29,16,107,95,271,577324,11846,821298
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","Lucid","Jungle",11,18,16,11,45,29,16,110,93,392,513903,8874,528247
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","Moham","Support",4,4,4,2,10,8,2,7,36,116,89674,367,50592
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Dplus KIA","ShowMaker","Mid",13,18,16,11,45,29,16,145,92,288,629470,13340,1020623
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Frog","Top",7,9,5,6,19,8,11,24,48,95,200060,4390,223147
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","kyeahoo","Mid",9,14,5,12,31,8,23,72,70,122,386473,8739,616155
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Paduck","Bot",1,1,0,1,2,0,2,2,3,4,21517,532,25104
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Pleata","Support",9,18,6,16,40,10,30,16,116,254,287607,1750,200100
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Rascal","Top",11,11,1,11,21,2,19,36,71,61,239159,5224,268635
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","SeTab","Mid",6,4,1,4,9,2,7,22,26,42,121210,2710,218284
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Sponge","Jungle",16,18,6,16,40,10,30,64,133,199,407221,7706,461963
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"DRX","Teddy","Bot",13,17,6,15,38,10,28,128,85,138,495532,11333,772638
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Gen.G","Canyon","Jungle",10,18,18,2,38,35,3,104,66,334,438774,7899,628886
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Gen.G","Chovy","Mid",8,18,18,2,38,35,3,177,53,196,571268,12050,979488
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Gen.G","Kiin","Top",15,18,18,2,38,35,3,101,69,242,472016,9462,670409
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Gen.G","Lehends","Support",12,18,18,2,38,35,3,24,105,375,313694,2310,211157
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Gen.G","Peyz","Bot",11,18,18,2,38,35,3,194,46,241,526358,9912,907387
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Delight","Support",9,18,16,7,41,30,11,34,94,373,323388,1567,206654
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Doran","Top",12,18,16,7,41,30,11,108,103,232,495575,10105,687031
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Peanut","Jungle",12,18,16,7,41,30,11,83,72,320,452558,8363,490524
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Viper","Bot",12,18,16,7,41,30,11,187,61,198,578815,12761,993958
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Hanwha Life Esports","Zeka","Mid",11,18,16,7,41,30,11,153,62,199,567129,12250,845787
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","Bdd","Mid",13,18,12,14,44,21,23,185,94,226,602128,13133,1038654
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","BeryL","Support",15,18,12,14,44,21,23,46,138,372,362482,2319,305103
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","Casting","Top",3,2,0,2,3,0,3,7,9,6,39346,803,57876
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","Deft","Bot",16,18,12,14,44,21,23,155,96,263,586856,12389,995263
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","PerfecT","Top",9,17,12,13,41,21,20,85,107,202,475337,10088,621363
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"KT Rolster","Pyosik","Jungle",9,18,12,14,44,21,23,90,97,355,471796,8318,462643
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Andil","Support",12,16,14,10,40,21,19,18,140,300,299676,1336,209665
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","BuLLDoG","Mid",9,18,14,12,44,21,23,120,106,177,591619,13393,890780
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Cuzz","Jungle",13,18,14,12,44,21,23,78,102,271,483420,9434,716656
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","DuDu","Top",10,18,14,12,44,21,23,110,90,157,550508,12041,633334
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Leaper","Bot",11,18,14,12,44,21,23,126,103,177,586960,13317,898791
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Kwangdong Freecs","Quantum","Support",4,2,0,2,4,0,4,3,20,8,23259,119,14711
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Calix","Mid",4,3,1,3,6,1,5,11,13,15,64629,1559,92311
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Callme","Mid",1,1,0,1,1,0,1,4,5,1,14272,300,13792
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","DnDn","Top",5,5,2,5,11,3,8,18,32,38,117015,2645,136458
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Fisher","Mid",8,16,7,12,33,12,21,112,95,137,453272,9954,735986
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","GuGer","Support",9,13,5,11,29,8,21,18,111,159,212314,1645,152550
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Jiwoo","Bot",13,18,8,14,40,13,27,115,111,167,505667,10826,824715
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Mihile","Top",7,14,6,10,29,10,19,55,88,116,352529,7699,451022
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","Sylvie","Jungle",12,18,8,14,40,13,27,70,115,225,412592,7532,475849
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"Nongshim RedForce","vital","Support",5,5,3,3,11,5,6,7,38,105,95968,471,76452
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","DDoiV","Jungle",4,2,2,2,6,3,3,8,13,34,60109,1086,75357
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Envyy","Bot",7,15,4,14,29,6,23,74,90,97,348547,8084,524746
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","FATE","Mid",5,9,2,8,19,4,15,44,43,80,240221,5370,380610
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Karis","Mid",5,9,3,9,17,3,14,43,46,67,215329,4897,309988
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Morgan","Top",13,18,6,17,41,8,33,84,127,148,477714,10462,635484
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Pollu","Support",8,18,6,17,41,8,33,27,182,259,291298,1199,183480
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Pullbae","Mid",4,4,1,4,5,1,4,14,18,25,63029,1374,113919
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","Samver","Bot",6,7,2,7,12,2,10,34,31,54,157690,3647,220970
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"OKSavingsBank BRION","YoungJae","Jungle",11,16,4,15,35,5,30,69,85,206,361265,6854,469825
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"T1","Faker","Mid",8,18,14,12,44,25,19,137,94,219,610364,13384,929191
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"T1","Gumayusi","Bot",13,18,14,12,44,25,19,159,80,227,618231,12913,895316
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"T1","Keria","Support",19,18,14,12,44,25,19,30,98,375,379051,2776,297431
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"T1","Oner","Jungle",13,18,14,12,44,25,19,116,85,291,513490,9377,592775
+"LCK 2024 Summer","LoL Champions Korea","Korea",2024,"T1","Zeus","Top",15,18,14,12,44,25,19,125,116,208,555473,11411,749219
