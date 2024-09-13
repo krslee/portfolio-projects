@@ -107,7 +107,9 @@ season_matches as (
 		count(distinct case when tournament not like '%Playoffs' then matchid end) as split_total_matches,
 		count(distinct case when tournament like '%Playoffs' then matchid end) as playoffs_total_matches,
 		count(distinct case when tournament not like '%Playoffs' then gameid end) as split_total_games,
-		count(distinct case when tournament like '%Playoffs' then gameid end) as playoffs_total_games
+		count(distinct case when tournament like '%Playoffs' then gameid end) as playoffs_total_games,
+		count(distinct gameid) as total_games,
+		sum(gamelength_number) as gamelength_number
 	from scoreboard_games games
 	join partnership_tournaments tournaments 
 		on games.overviewpage = tournaments.overviewpage
@@ -119,7 +121,9 @@ select
 	matches.split_total_matches,
 	matches.playoffs_total_matches,
 	matches.split_total_games,
-	matches.playoffs_total_games
+	matches.playoffs_total_games,
+	matches.total_games,
+	matches.gamelength_number
 from season_info info
 join season_matches matches
 	on info.year = matches.year
@@ -128,7 +132,7 @@ join season_matches matches
 
 
 -- Team Stats
--- The following query pulls rosters per team based on latest tournament participated in
+-- (Current Roster) The following query pulls rosters per team based on latest tournament participated in
 with tournament_players as (
 	select 
 		tournaments.tournament,
@@ -156,7 +160,7 @@ from tournament_players
 where tournamentrankdesc = 1
 order by tournament, currentname, nplayerinteam;
 
--- The following query pulls all tournaments participated per team ranked by recency
+-- (Tournament Results) The following query pulls all tournaments participated per team ranked by recency
 with tournaments_per_teams as (
 	select distinct
 		tournaments.tournament,
