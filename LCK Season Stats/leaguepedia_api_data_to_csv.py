@@ -26,11 +26,12 @@ def write_to_csv(response, file_name):
             header = data.keys()
 
             csv_writer.writerow(header)
-            count += 1
 
         values = data.values()
         
         csv_writer.writerow(values)
+
+        count += 1
 
     data_file.close()
     
