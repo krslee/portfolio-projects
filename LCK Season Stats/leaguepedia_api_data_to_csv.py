@@ -20,14 +20,14 @@ def write_to_csv(response, file_name):
 
     count = 0
     
-    for data in response:
+    for item in response:
         if count == 0:
 
-            header = data.keys()
+            header = item.keys()
 
             csv_writer.writerow(header)
 
-        values = data.values()
+        values = item.values()
         
         csv_writer.writerow(values)
 
