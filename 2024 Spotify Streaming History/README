@@ -12,4 +12,5 @@ I used PostgreSQL to do some basic transformations of my existing streaming data
 - Filtering for 2024 streams with 30 sec or more of play time (what Spotify officially counts as a stream)
 - Joining track and artist data to filtered streaming history to identify final list of unique dimensions
 
-Related Tableau workbook can be found HERE.
+
+Related Tableau workbook can be found [HERE](https://public.tableau.com/views/2024SpotifyTrackStreaming/2024Streaming?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
