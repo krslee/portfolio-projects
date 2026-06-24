@@ -1,0 +1,39 @@
+"tournament_group","tournament_stage","tournament","league","region","country","year","datestart","date","overviewpage","datestart_precision","date_precision"
+"Worlds 2014","Main Event","Worlds 2014","World Championship","International","South Korea",2014,"2014-09-18","2014-10-19","2014 Season World Championship",1,1
+"Worlds 2015","Main Event","Worlds 2015","World Championship","International","Europe",2015,"2015-10-01","2015-10-31","2015 Season World Championship",1,1
+"Worlds 2016","Main Event","Worlds 2016","World Championship","International","United States",2016,"2016-09-29","2016-10-29","2016 Season World Championship",1,1
+"Worlds 2017","Main Event","Worlds 2017","World Championship","International","China",NULL,"2017-09-23","2017-11-04","2017 Season World Championship",1,1
+"Worlds 2017","Main Event","Worlds 2017 Main Event","World Championship","International","China",2017,"2017-10-05","2017-11-04","2017 Season World Championship/Main Event",1,1
+"Worlds 2017","Play-In","Worlds 2017 Play-In","World Championship","International","China",2017,"2017-09-23","2017-09-29","2017 Season World Championship/Play-In",1,1
+"Worlds 2018","Main Event","Worlds 2018","World Championship","International","South Korea",NULL,"2018-10-01","2018-11-03","2018 Season World Championship",1,1
+"Worlds 2018","Main Event","Worlds 2018 Main Event","World Championship","International","South Korea",2018,"2018-10-10","2018-11-03","2018 Season World Championship/Main Event",1,1
+"Worlds 2018","Play-In","Worlds 2018 Play-In","World Championship","International","South Korea",2018,"2018-10-01","2018-10-07","2018 Season World Championship/Play-In",1,1
+"Worlds 2019","Main Event","Worlds 2019","World Championship","International","Europe",NULL,"2019-10-02","2019-11-10","2019 Season World Championship",1,1
+"Worlds 2019","Main Event","Worlds 2019 Main Event","World Championship","International","Europe",2019,"2019-10-12","2019-11-10","2019 Season World Championship/Main Event",1,1
+"Worlds 2019","Play-In","Worlds 2019 Play-In","World Championship","International","Germany",2019,"2019-10-02","2019-10-08","2019 Season World Championship/Play-In",1,1
+"Worlds 2020","Main Event","Worlds 2020","World Championship","International","China",NULL,"2020-09-25","2020-10-31","2020 Season World Championship",1,1
+"Worlds 2020","Main Event","Worlds 2020 Main Event","World Championship","International","China",2020,"2020-10-03","2020-10-31","2020 Season World Championship/Main Event",1,1
+"Worlds 2020","Play-In","Worlds 2020 Play-In","World Championship","International","China",2020,"2020-09-25","2020-09-30","2020 Season World Championship/Play-In",1,1
+"Worlds 2021","Main Event","Worlds 2021","World Championship","International","Iceland",NULL,"2021-10-05","2021-11-06","2021 Season World Championship",1,1
+"Worlds 2021","Main Event","Worlds 2021 Main Event","World Championship","International","Iceland",2021,"2021-10-11","2021-11-06","2021 Season World Championship/Main Event",1,1
+"Worlds 2021","Play-In","Worlds 2021 Play-In","World Championship","International","Iceland",2021,"2021-10-05","2021-10-09","2021 Season World Championship/Play-In",1,1
+"Worlds 2022","Main Event","Worlds 2022","World Championship","International",NULL,NULL,"2022-09-29","2022-11-05","2022 Season World Championship",1,1
+"Worlds 2022","Main Event","Worlds 2022 Main Event","World Championship","International","United States",2022,"2022-10-07","2022-11-05","2022 Season World Championship/Main Event",1,1
+"Worlds 2022","Play-In","Worlds 2022 Play-In","World Championship","International","Mexico",2022,"2022-09-29","2022-10-04","2022 Season World Championship/Play-In",1,1
+"Worlds 2023","Main Event","Worlds 2023","World Championship","International","South Korea",NULL,"2023-10-10","2023-11-19","2023 Season World Championship",1,1
+"Worlds 2023","Main Event","Worlds 2023 Main Event","World Championship","International","South Korea",2023,"2023-10-19","2023-11-19","2023 Season World Championship/Main Event",1,1
+"Worlds 2023","Play-In","Worlds 2023 Play-In","World Championship","International","South Korea",2023,"2023-10-10","2023-10-15","2023 Season World Championship/Play-In",1,1
+"Worlds 2024","Main Event","Worlds 2024","World Championship","International",NULL,NULL,"2024-09-25","2024-11-02","2024 Season World Championship",1,1
+"Worlds 2024","Main Event","Worlds 2024 Main Event","World Championship","International",NULL,2024,"2024-10-03","2024-11-02","2024 Season World Championship/Main Event",1,1
+"Worlds 2024","Play-In","Worlds 2024 Play-In","World Championship","International",NULL,2024,"2024-09-25","2024-09-29","2024 Season World Championship/Play-In",1,1
+"Worlds 2025","Main Event","Worlds 2025","World Championship","International","China",NULL,"2025-10-14","2025-11-09","2025 Season World Championship",1,1
+"Worlds 2025","Main Event","Worlds 2025 Main Event","World Championship","International","China",2025,"2025-10-15","2025-11-09","2025 Season World Championship/Main Event",1,1
+"Worlds 2025","Play-In","Worlds 2025 Play-In","World Championship","International","China",2025,"2025-10-14","2025-10-14","2025 Season World Championship/Play-In",1,1
+"Worlds 2026","Main Event","Worlds 2026","World Championship","International","United States",NULL,"2026-10-16","2026-11-14","2026 Season World Championship",1,1
+"Worlds 2027","Main Event","Worlds 2027","World Championship","International","South Korea",NULL,NULL,NULL,"2027 Season World Championship",NULL,NULL
+"Worlds Qualifying Series 2023","Qualifier Series","Worlds Qualifying Series 2023","World Championship","International","South Korea",2023,"2023-10-09","2023-10-09","2023 Worlds Qualifying Series",1,1
+"Worlds Season 1","Main Event","Worlds Season 1","World Championship","International","Sweden",2011,"2011-06-18","2011-06-20","Season 1 World Championship",1,1
+"Worlds Season 1 Qualifier - Europe","Qualifier Series","Worlds Season 1 Qualifier - Europe","World Championship","Europe",NULL,2011,"2011-05-28","2011-05-29","Season 1 World Championship/Qualifiers/Europe",1,1
+"Worlds Season 1 Qualifier - NA","Qualifier Series","Worlds Season 1 Qualifier - NA","World Championship","North America",NULL,2011,"2011-05-28","2011-05-29","Season 1 World Championship/Qualifiers/North America",1,1
+"Worlds Season 2","Main Event","Worlds Season 2","World Championship","International","United States",2012,"2012-10-04","2012-10-13","Season 2 World Championship",1,1
+"Worlds Season 3","Main Event","Worlds Season 3","World Championship","International","United States",2013,"2013-09-15","2013-10-04","Season 3 World Championship",1,1
